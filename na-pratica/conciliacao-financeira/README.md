@@ -30,7 +30,7 @@ Esse arquivo reúne as instruções para executar a tarefa novamente.
 
 Abra uma conversa com um assistente que tenha acesso aos arquivos e às ferramentas necessárias. Anexe **a especificação aprovada**, disponibilize os documentos do período e solicite a execução. Por exemplo:
 
-> Execute a tarefa conforme a especificação anexada para setembro de 2026. Os extratos e comprovantes estão nesta pasta: [cole aqui o link da pasta]. Comece conferindo as entradas e os acessos necessários e solicite minhas confirmações conforme a especificação.
+> Faça a conciliação financeira de setembro de 2026 seguindo as instruções do arquivo que estou enviando. Os extratos e comprovantes estão nesta pasta: [cole aqui o link da pasta]. Primeiro, confira se consegue abrir os arquivos e se tem tudo de que precisa. Se faltar alguma informação ou precisar da minha confirmação, me pergunte.
 
 Neste caso, as entradas incluem o extrato CSV, os documentos de apoio e a lista de categorias indicada na especificação. Se o assistente não tiver acesso à pasta, forneça os arquivos diretamente ou configure a conexão necessária.
 
