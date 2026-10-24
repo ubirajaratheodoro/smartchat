@@ -8,7 +8,7 @@ Transforme uma necessidade do seu trabalho em uma tarefa especificada e teste su
 
 Com o [SmartChat instalado](../../docs/instalacao.md), inicie uma conversa, anexe o padrão de especificação e explique o que deseja fazer:
 
-> Quero automatizar uma tarefa de conciliação financeira adotando este padrão que estou enviando.
+> Quero criar um arquivo de especificação para automatizar uma tarefa de conciliação financeira. Use o padrão que estou enviando como referência para elaborar essa especificação.
 
 O SmartChat é gratuito. O padrão utilizado nesta demonstração é uma oferta paga: **[conheça o padrão na Eduzz](https://sun.eduzz.com/Q9NDKAYP01)**. Você também pode elaborar sua própria estrutura.
 
