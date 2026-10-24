@@ -1,5 +1,9 @@
 # Conciliação financeira: do extrato ao demonstrativo com SmartChat
 
+**[▶ Assista à demonstração com música — 3min28s](demonstracao-smartchat.mp4)** · [Abrir ou baixar o MP4](https://raw.githubusercontent.com/ubirajaratheodoro/smartchat/main/na-pratica/conciliacao-financeira/demonstracao-smartchat.mp4)
+
+Reprodução animada de trechos reais da conversa, com cortes indicados e sem narração. A sequência original foi preservada; arquivos pagos e links privados não são exibidos.
+
 **Todo mês, os documentos chegam. Como transformar extratos, comprovantes e notas em um demonstrativo que você consiga conferir?**
 
 Nesta aplicação, SmartChat foi utilizado com um padrão de especificação para definir uma tarefa de fechamento financeiro mensal. A especificação resultante orientou a execução assistida, com decisões do usuário nos pontos que exigiam esclarecimento.
@@ -83,6 +87,10 @@ O padrão ajuda a descrever a tarefa. O conteúdo específico, as ferramentas ne
 
 O link da Eduzz é provisório e será atualizado pelo mantenedor.
 
-O vídeo demonstrativo será acrescentado a esta página quando estiver disponível.
+### Créditos da música
+
+“Big Rock”, de Kevin MacLeod ([incompetech.com](https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100305)), sob [licença Creative Commons Attribution 4.0 International — CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Adaptações: trecho de 208 segundos, volume reduzido e entrada e saída suaves. Os créditos também estão no final do vídeo.
 
 [Outras aplicações do SmartChat](../README.md) · [Instalação e primeiros passos](../../docs/instalacao.md)
