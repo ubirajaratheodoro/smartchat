@@ -1,96 +1,59 @@
-# Conciliação financeira: do extrato ao demonstrativo com SmartChat
+# Conciliação financeira com SmartChat: da conversa à execução
 
-**[▶ Assista à demonstração com música — 3min28s](demonstracao-smartchat.mp4)** · [Abrir ou baixar o MP4](https://raw.githubusercontent.com/ubirajaratheodoro/smartchat/main/na-pratica/conciliacao-financeira/demonstracao-smartchat.mp4)
+Transforme uma necessidade do seu trabalho em uma tarefa especificada e teste sua execução. Neste exemplo, o objetivo é gerar um demonstrativo financeiro a partir de extratos e comprovantes do mês.
 
-Reprodução animada de trechos reais da conversa, com cortes indicados e sem narração. A sequência original foi preservada; arquivos pagos e links privados não são exibidos.
+**[▶ Veja como a especificação foi criada — vídeo de 3min28s](demonstracao-smartchat.mp4)**
 
-**Todo mês, os documentos chegam. Como transformar extratos, comprovantes e notas em um demonstrativo que você consiga conferir?**
+## Passo 1 — Abra o SmartChat e forneça o padrão
 
-Nesta aplicação, SmartChat foi utilizado com um padrão de especificação para definir uma tarefa de fechamento financeiro mensal. A especificação resultante orientou a execução assistida, com decisões do usuário nos pontos que exigiam esclarecimento.
+Com o [SmartChat instalado](../../docs/instalacao.md), inicie uma conversa, anexe o padrão de especificação e explique o que deseja fazer:
 
-**[Baixe o demonstrativo fictício em Excel](demonstrativo-exemplo.xlsx)** para visualizar o tipo de entrega. Para criar suas próprias especificações com uma estrutura pronta, [conheça o padrão na Eduzz](https://sun.eduzz.com/Q9NDKAYP01).
+> Quero automatizar uma tarefa de conciliação financeira adotando este padrão que estou enviando.
 
-## A necessidade
+O SmartChat é gratuito. O padrão utilizado nesta demonstração é uma oferta paga: **[conheça o padrão na Eduzz](https://sun.eduzz.com/Q9NDKAYP01)**. Você também pode elaborar sua própria estrutura.
 
-O trabalho começava com documentos distribuídos em uma pasta mensal: extrato bancário, comprovantes, notas, recibos e outros materiais. Ao final, era necessário produzir uma planilha com as movimentações, suas classificações e informações suficientes para revisão.
+## Passo 2 — Responda às perguntas sobre sua tarefa
 
-Havia decisões importantes: como tratar um pagamento sem nota fiscal? Qual documento deveria prevalecer quando duas fontes divergiam? Como registrar um pagamento que reunia dois impostos? Quais valores entrariam na base indicada pelo usuário?
+O SmartChat ajuda a esclarecer quais documentos utilizar, o que entregar e quando consultar você. Responda com suas próprias palavras ou escolha uma das opções apresentadas.
 
-A proposta foi transformar essas decisões em orientações explícitas para uma tarefa reutilizável.
+Forneça suas referências, como categorias e modelo de planilha. Você pode corrigir o pedido ou mudar de ideia durante a conversa.
 
-## Como a tarefa foi construída
+**São poucas etapas de trabalho, mas a quantidade de perguntas depende da complexidade da tarefa.**
 
-### 1. Descrever o trabalho com suas próprias palavras
+## Passo 3 — Revise e guarde a especificação
 
-O usuário iniciou a conversa explicando que desejava preparar uma conciliação financeira e forneceu o padrão como referência. Não precisou começar com um prompt técnico ou com todas as respostas prontas.
+Peça o arquivo para download, confira se ele descreve o que você precisa e solicite os ajustes necessários. Depois, aprove e guarde a versão definitiva.
 
-SmartChat passou a esclarecer o que seria conciliado, para qual finalidade e qual resultado deveria ser entregue.
+Esse arquivo reúne as instruções para executar a tarefa novamente.
 
-### 2. Esclarecer as decisões que mudam o resultado
+## Passo 4 — Use a especificação para executar a tarefa
 
-Ao longo da conversa, foram definidos os documentos disponíveis, a fonte principal dos movimentos, as categorias de classificação e a forma de tratar dúvidas e pendências.
+Abra uma conversa com um assistente que tenha acesso aos arquivos e às ferramentas necessárias. Anexe **a especificação aprovada**, disponibilize os documentos do período e solicite a execução. Por exemplo:
 
-O usuário pôde corrigir escolhas durante a elaboração. Por exemplo, o acionamento da tarefa ficou manual: o fechamento começa quando ele solicita, em vez de depender de um monitoramento automático da pasta.
+> Execute a tarefa conforme a especificação anexada para setembro de 2026. Os extratos e comprovantes estão nesta pasta: [cole aqui o link da pasta]. Comece conferindo as entradas e os acessos necessários e solicite minhas confirmações conforme a especificação.
 
-Essa etapa tornou visíveis condições que poderiam ficar implícitas em um pedido genérico de “fazer a conciliação”.
+Neste caso, as entradas incluem o extrato CSV, os documentos de apoio e a lista de categorias indicada na especificação. Se o assistente não tiver acesso à pasta, forneça os arquivos diretamente ou configure a conexão necessária.
 
-### 3. Organizar as definições em uma especificação
+O arquivo orienta a execução; o acesso aos documentos e às ferramentas precisa estar disponível.
 
-As decisões foram reunidas em um arquivo de tarefa, revisado e aprovado pelo usuário. Esse documento passou a orientar o que fazer e como conferir a entrega nas execuções seguintes.
+## Passo 5 — Confira o resultado e aprove
 
-O padrão forneceu a estrutura para essa elaboração; SmartChat ajudou a preenchê-la com as particularidades do trabalho. A especificação completa e a estrutura interna do padrão não são publicadas nesta demonstração.
+Durante a execução, responda às dúvidas sobre documentos, classificações e outros pontos que dependam da sua decisão. Ao receber a planilha, confira os lançamentos, os totais e as pendências. Solicite ajustes e aprove a entrega.
 
-## Da especificação à execução
+**[Baixe o demonstrativo com dados fictícios](demonstrativo-exemplo.xlsx)** para visualizar uma ilustração do resultado. Ele foi preparado para demonstração e não contém dados financeiros reais.
 
-Com a tarefa definida, foram disponibilizados os documentos do período. A execução leu os movimentos, conferiu os saldos e relacionou os lançamentos aos documentos disponíveis.
+No próximo mês, reutilize a especificação e informe o novo período e seus documentos.
 
-As dúvidas não foram resolvidas por adivinhação. O usuário confirmou um vínculo documental, escolheu categorias e determinou o tratamento de exceções. Entre as decisões do caso:
+---
 
-- Utilizar uma categoria geral de receitas de aluguel, identificando cada locatário na descrição.
-- Separar PIS e COFINS em duas linhas quando pagos na mesma movimentação bancária, preservando o valor total.
-- Registrar adiantamentos com a pendência da nota fiscal visível, após autorização do usuário.
-- Confirmar quais recebimentos integrariam a base indicada na planilha, sem adotar uma regra tributária por suposição.
+**Quer partir de uma estrutura pronta? [Conheça o padrão de especificação na Eduzz](https://sun.eduzz.com/Q9NDKAYP01).**
 
-Por isso, trata-se de **execução assistida**: a IA realiza o trabalho conforme as orientações, e o usuário participa das decisões e da revisão final. Criar uma especificação não instala, por si só, uma integração nem um agendamento.
+O link da Eduzz é provisório e será atualizado pelo mantenedor. O padrão pago e a especificação completa não são disponibilizados nesta pasta.
 
-## O que o teste mostrou
+### Sobre o vídeo e a música
 
-O resultado do teste com documentos reais foi comparado ao demonstrativo de referência do mesmo período. Saldos, entradas, saídas e base confirmada coincidiram. A diferença na quantidade de linhas foi explicada pelo desdobramento autorizado do pagamento de dois impostos.
+O vídeo reproduz trechos reais da **criação da especificação**, com cortes indicados e sem narração. A execução está explicada nos passos 4 e 5 acima.
 
-A nova entrega também apresentou vínculos aos documentos e as pendências liberadas pelo usuário. Ajustes de apresentação podem fazer parte da implantação; a conferência deve garantir que valores e informações importantes continuem legíveis.
+Música: “Big Rock”, de Kevin MacLeod ([incompetech.com](https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100305)), sob [licença CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adaptações: trecho de 208 segundos, volume reduzido e entrada e saída suaves.
 
-Esse teste demonstra o funcionamento no caso examinado. A aplicação em outros períodos exige fornecer as respectivas entradas, verificar os recursos disponíveis e revisar o resultado.
-
-## Visualize o resultado
-
-O arquivo abaixo é uma **ilustração criada com dados inteiramente fictícios** para mostrar a apresentação da entrega. Ele não contém os dados do fechamento real e não representa uma nova execução de conciliação sobre um conjunto público de comprovantes.
-
-**[Baixar demonstrativo fictício (.xlsx)](demonstrativo-exemplo.xlsx)**
-
-| Controle ilustrativo | Valor fictício |
-|---|---:|
-| Saldo inicial | R$ 12.000,00 |
-| Entradas | R$ 15.000,00 |
-| Saídas | R$ 7.320,00 |
-| Saldo final | R$ 19.680,00 |
-| Base confirmada no exemplo | R$ 7.500,00 |
-
-Há 11 movimentos fictícios representados em 12 linhas: um pagamento de impostos foi desdobrado em PIS e COFINS. Não há documentos reais ou links privados associados aos lançamentos. As escolhas de classificação e base servem à demonstração e não estabelecem regras fiscais para outros casos.
-
-## E para criar uma tarefa do seu trabalho?
-
-Você pode usar SmartChat gratuitamente e elaborar sua própria estrutura. O padrão pago oferece uma estrutura pronta para organizar a criação da especificação, reduzindo o trabalho de começar do zero.
-
-**[Conheça o padrão de especificação na Eduzz](https://sun.eduzz.com/Q9NDKAYP01)**
-
-O padrão ajuda a descrever a tarefa. O conteúdo específico, as ferramentas necessárias e os testes de execução dependem da aplicação que você deseja construir.
-
-O link da Eduzz é provisório e será atualizado pelo mantenedor.
-
-### Créditos da música
-
-“Big Rock”, de Kevin MacLeod ([incompetech.com](https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100305)), sob [licença Creative Commons Attribution 4.0 International — CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-
-Adaptações: trecho de 208 segundos, volume reduzido e entrada e saída suaves. Os créditos também estão no final do vídeo.
-
-[Outras aplicações do SmartChat](../README.md) · [Instalação e primeiros passos](../../docs/instalacao.md)
+[Outras aplicações do SmartChat](../README.md)
