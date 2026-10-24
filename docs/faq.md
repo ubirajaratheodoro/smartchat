@@ -1,8 +1,8 @@
 # Perguntas frequentes
 
-## Preciso comprar o curso para usar SmartChat?
+## Preciso comprar o padrão para usar SmartChat?
 
-Não. O SmartChat e o prompt público podem ser utilizados gratuitamente. O curso é uma oferta separada de aprendizagem, com um padrão completo de especificação e aplicação guiada.
+Não. O SmartChat e o prompt público podem ser utilizados gratuitamente. O padrão completo é uma oferta paga separada, para quem deseja partir de uma estrutura pronta ao criar suas especificações. Veja uma aplicação em [SmartChat na prática](../na-pratica/README.md).
 
 ## Posso utilizar em serviços para clientes?
 
@@ -26,7 +26,7 @@ O SmartChat procura esclarecer informações relevantes e confirmar o entendimen
 
 ## O padrão completo está no download?
 
-Não. O pacote gratuito contém o SmartChat e seu módulo de referência. O padrão completo de especificação de tarefa integra o curso pago.
+Não. O pacote gratuito contém o SmartChat e seu módulo de referência. O padrão completo é disponibilizado separadamente pela oferta paga. Os exemplos públicos apresentam o percurso de criação e resultados fictícios, sem publicar o padrão nem as especificações preenchidas.
 
 ## Preciso pagar por ChatGPT ou Codex?
 

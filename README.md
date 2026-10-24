@@ -32,11 +32,19 @@ Exemplos de início de conversa:
 
 Veja o [guia de utilização](docs/uso.md) para saber como conduzir a conversa.
 
+## SmartChat na prática
+
+Conheça aplicações que mostram como uma necessidade pode se transformar em uma tarefa especificada e executada com auxílio de IA.
+
+**[Conciliação financeira: do extrato ao demonstrativo com SmartChat](na-pratica/conciliacao-financeira/)** - acompanhe a criação da tarefa e baixe um resultado ilustrativo com dados inteiramente fictícios.
+
+[Ver as aplicações disponíveis](na-pratica/README.md).
+
 ## Crie sua primeira tarefa
 
 O [prompt público de criação de tarefa](prompts/criar-tarefa.md) ajuda você a transformar uma atividade em uma especificação e planejar seu teste. Copie o texto, substitua os campos indicados e envie com o SmartChat selecionado.
 
-Você pode utilizar SmartChat e criar tarefas gratuitamente. O padrão completo de especificação utilizado no curso pago não integra este repositório.
+Você pode utilizar SmartChat e criar tarefas gratuitamente. Para partir de uma estrutura pronta, [conheça o padrão de especificação na Eduzz](https://sun.eduzz.com/Q9NDKAYP01). O padrão completo é uma oferta paga e não integra este repositório. O endereço da Eduzz é provisório e será atualizado pelo mantenedor.
 
 ## Gratuito, inclusive para uso profissional
 

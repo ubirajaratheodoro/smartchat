@@ -20,4 +20,4 @@ Antes de finalizar, apresente uma síntese para eu revisar. Depois dos esclareci
 Neste momento, estamos criando a especificação. A execução da tarefa será solicitada separadamente, após a revisão do documento e a disponibilização das entradas necessárias.
 ```
 
-Este é um ponto de partida genérico. Não reproduz nem inclui o padrão completo de especificação disponibilizado no curso pago. Você pode criar seu próprio padrão e adaptar suas tarefas, respeitados os [termos do SmartChat](../LICENSE.md).
+Este é um ponto de partida genérico. Não reproduz nem inclui o padrão completo de especificação disponibilizado separadamente na oferta paga. Você pode criar seu próprio padrão e adaptar suas tarefas, respeitados os [termos do SmartChat](../LICENSE.md).
