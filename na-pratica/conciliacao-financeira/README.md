@@ -71,7 +71,7 @@ O arquivo abaixo é uma **ilustração criada com dados inteiramente fictícios*
 | Saldo final | R$ 19.680,00 |
 | Base confirmada no exemplo | R$ 7.500,00 |
 
-Há 11 movimentos fictícios representados em 12 linhas: um pagamento de impostos foi desdobrado em PIS e COFINS. Os documentos são identificadores ilustrativos, sem links para arquivos reais. As escolhas de classificação e base servem à demonstração e não estabelecem regras fiscais para outros casos.
+Há 11 movimentos fictícios representados em 12 linhas: um pagamento de impostos foi desdobrado em PIS e COFINS. Não há documentos reais ou links privados associados aos lançamentos. As escolhas de classificação e base servem à demonstração e não estabelecem regras fiscais para outros casos.
 
 ## E para criar uma tarefa do seu trabalho?
 
