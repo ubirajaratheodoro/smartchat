@@ -34,13 +34,13 @@ Exemplos de início de conversa:
 
 Veja o [guia de utilização](docs/uso.md) para saber como conduzir a conversa.
 
-## SmartChat na prática
+## Veja o SmartChat em ação
 
 Conheça aplicações que mostram como uma necessidade pode se transformar em uma tarefa especificada e executada com auxílio de IA.
 
-**[Conciliação financeira: do extrato ao demonstrativo com SmartChat](na-pratica/conciliacao-financeira/)** - acompanhe a criação da tarefa e baixe um resultado ilustrativo com dados inteiramente fictícios.
+**[Conciliação financeira: do extrato ao demonstrativo com SmartChat](exemplos/conciliacao-financeira/)** - acompanhe a criação da tarefa e baixe um resultado ilustrativo com dados inteiramente fictícios.
 
-[Ver as aplicações disponíveis](na-pratica/README.md).
+[Ver as aplicações disponíveis](exemplos/README.md).
 
 ## Crie sua primeira tarefa
 

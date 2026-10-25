@@ -2,7 +2,7 @@
 
 ## Preciso comprar o padrão para usar SmartChat?
 
-Não. O SmartChat e o prompt público podem ser utilizados gratuitamente. O padrão completo é uma oferta paga separada, para quem deseja partir de uma estrutura pronta ao criar suas especificações. Veja uma aplicação em [SmartChat na prática](../na-pratica/README.md).
+Não. O SmartChat e o prompt público podem ser utilizados gratuitamente. O padrão completo é uma oferta paga separada, para quem deseja partir de uma estrutura pronta ao criar suas especificações. Veja uma aplicação em [Veja o SmartChat em ação](../exemplos/README.md).
 
 ## Posso utilizar em serviços para clientes?
 

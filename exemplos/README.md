@@ -1,4 +1,4 @@
-# SmartChat na prática
+# Veja o SmartChat em ação
 
 **Veja como uma necessidade do dia a dia pode se transformar em uma tarefa especificada e executada com auxílio de IA.**
 
