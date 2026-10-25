@@ -2,7 +2,9 @@
 
 Transforme uma necessidade do seu trabalho em uma tarefa especificada e teste sua execução. Neste exemplo, o objetivo é gerar um demonstrativo financeiro a partir de extratos e comprovantes do mês.
 
-**[▶ Veja como a especificação foi criada — vídeo de 3min28s](demonstracao-smartchat.mp4)**
+**[▶ Assista no YouTube: como a especificação foi criada — 3min28s](https://youtu.be/XfYRDwGQp6s)**
+
+[Baixar o vídeo em MP4](demonstracao-smartchat.mp4)
 
 ## Passo 1 — Abra o SmartChat e forneça o padrão
 
