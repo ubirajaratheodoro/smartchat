@@ -6,14 +6,16 @@ O SmartChat organiza a conversa para entender o objetivo, identificar informaç�
 
 Pronto, consolidado e em uso desde abril de 2026. Versão disponibilizada neste repositório: **0.38.3**.
 
-## Comece aqui
+## Baixe e comece a usar
+
+### [⬇ Baixar SmartChat gratuitamente — versão 0.38.3](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/plugin/smartchat-v0.38.3.zip)
 
 1. Leia os [termos de uso gratuito](LICENSE.md).
-2. [Baixe o SmartChat v0.38.3](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/smartchat-v0.38.3.zip).
+2. [Baixe o SmartChat v0.38.3](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/plugin/smartchat-v0.38.3.zip).
 3. Consulte as [orientações de instalação para ChatGPT e Codex](docs/instalacao.md).
 4. Inicie uma nova conversa, selecione o SmartChat e descreva o resultado que deseja alcançar.
 
-O ZIP é o pacote original exportado, sem alterações. O nome exibido é **SmartChat**; o identificador interno começa com `gpt-2bebe66a`.
+Baixe apenas o arquivo ZIP pelo link acima. Não é necessário baixar o repositório inteiro nem escolher entre várias pastas. O pacote original foi preservado, sem alterações.
 
 ## O que você pode fazer
 
@@ -62,6 +64,6 @@ O atendimento público não inclui consultoria individual nem prazo garantido de
 
 ## Arquivos e integridade
 
-O [arquivo de verificação](downloads/SHA256SUMS.txt) permite conferir a integridade do ZIP. Os arquivos do plugin também estão disponíveis em [plugins](plugins/gpt-2bebe66a0306f7d8bd895e2f0a1a141b/), preservando o conteúdo do pacote exportado.
+O pacote para baixar está na pasta [plugin](plugin/). A [verificação de integridade](plugin/SHA256SUMS.txt) é opcional e permite conferir se o download está completo.
 
 SmartChat orienta a interação com IA; resultados importantes precisam de conferência. Ele utiliza as ferramentas e permissões disponíveis no ambiente, sem garantir acesso a arquivos ou serviços apenas porque foram mencionados.

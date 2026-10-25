@@ -1,50 +1,35 @@
-# Instalação no ChatGPT e no Codex
+# Como instalar o SmartChat
 
-O download contém um plugin de instruções e referências. A instalação exige um ambiente com suporte a plugins e permissão para adicionar fontes ou pacotes próprios. Os recursos disponíveis variam conforme conta, aplicativo e políticas do workspace.
+## 1. Baixe o plugin
 
-## Antes de começar
+**[⬇ Baixar SmartChat v0.38.3](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/plugin/smartchat-v0.38.3.zip)**
 
-Leia a [licença de uso gratuito](../LICENSE.md). Se já possui SmartChat instalado, confira a versão antes de instalar outra cópia. O pacote mantém o identificador original `gpt-2bebe66a0306f7d8bd895e2f0a1a141b` e a versão `0.38.3`.
+Salve o ZIP no computador. Não é necessário baixar o repositório inteiro. Consulte os [termos de uso gratuito](../LICENSE.md).
 
-## ChatGPT
+## 2. Confira a opção de instalação
 
-Abra a área **Plugins** e confira quais formas de adicionar plugins próprios estão disponíveis na sua conta. Utilize o [ZIP original](../downloads/smartchat-v0.38.3.zip) se o ambiente oferecer importação de pacote. Não anexe o ZIP como documento de uma conversa esperando que isso instale o plugin.
+Abra a área **Plugins** do aplicativo que pretende usar e procure a opção de importar ou enviar um pacote próprio.
 
-Em workspaces com importação de marketplaces do GitHub, solicite ao administrador a inclusão deste repositório:
+A instalação por ZIP depende do aplicativo, da conta e das permissões disponíveis. Se houver essa opção, selecione o ZIP que você baixou e siga as instruções da tela. Mantenha o arquivo compactado, a menos que o próprio instalador peça uma pasta descompactada.
 
-```text
-https://github.com/ubirajaratheodoro/smartchat
-```
+Anexar o ZIP como documento de uma conversa não instala o plugin.
 
-Este repositório inclui o catálogo em `.agents/plugins/marketplace.json`. A inclusão de uma fonte é diferente da instalação do plugin; após a fonte estar disponível, localize **SmartChat** e instale-o.
+Se não encontrar a opção de importar, consulte a [documentação oficial de plugins](https://learn.chatgpt.com/docs/plugins) ou o administrador do seu workspace. O download não garante instalação em todas as versões do ChatGPT ou do Codex.
 
-Para uso local no aplicativo de desktop, o catálogo do repositório pode ser utilizado pelo fluxo de marketplace suportado pelo aplicativo. Consulte o [guia oficial de empacotamento e marketplaces](https://developers.openai.com/plugins/build/plugins), especialmente “Install a local plugin manually”.
+## 3. Selecione o SmartChat e comece
 
-Se sua conta não oferecer uma dessas opções, o ZIP sozinho não libera a instalação. Verifique as opções atuais na [documentação oficial de plugins](https://learn.chatgpt.com/docs/plugins). Este repositório não garante importação em todos os planos ou ambientes.
+1. Após instalar, abra uma nova conversa ou sessão.
+2. Selecione **SmartChat** na lista de plugins ou pela menção com `@`, quando disponível.
+3. Explique o que precisa, por exemplo:
 
-## Codex CLI
+> Quero organizar uma tarefa que faço todo mês. Ajude-me a definir o resultado, as informações necessárias e como conferir se ficou tudo certo.
 
-Em uma versão com suporte ao comando de marketplaces, registre a fonte:
+Confira se o SmartChat está selecionado; a aparência de uma resposta, sozinha, não comprova que o plugin está instalado.
 
-```shell
-codex plugin marketplace add https://github.com/ubirajaratheodoro/smartchat.git
-```
+Veja o [guia de uso](uso.md) ou acompanhe o [exemplo de conciliação financeira](../na-pratica/conciliacao-financeira/).
 
-Depois abra o Codex e execute `/plugins`. Selecione a fonte **SmartChat**, localize o plugin e instale-o. Inicie uma nova sessão após a instalação.
+## Sobre este download
 
-No aplicativo de desktop, procure a fonte no diretório de plugins, conforme os marketplaces configurados no ambiente. A extensão IDE não é o caminho de instalação descrito aqui.
+O ZIP é o pacote original exportado, versão **0.38.3**, sem alterações. Sua integridade foi preservada. A instalação deve ser conferida no ambiente em que será utilizado.
 
-## Confira a instalação
-
-1. Inicie uma nova conversa ou sessão.
-2. Selecione **SmartChat** pelo seletor de plugins ou pela menção com `@`, quando disponível.
-3. Envie: “Use o SmartChat para me ajudar a organizar uma tarefa recorrente. Quero definir o resultado, as informações necessárias e como conferir a entrega.”
-4. Confirme que o SmartChat está selecionado e que a conversa considera o objetivo e as informações necessárias. A aparência de uma resposta, sozinha, não comprova a instalação.
-
-Depois, consulte o [guia de uso](uso.md) e o [prompt para criar uma tarefa](../prompts/criar-tarefa.md).
-
-## Limites desta publicação
-
-O pacote preserva os arquivos exportados fornecidos pelo mantenedor. A integridade do ZIP e a estrutura dos arquivos foram conferidas; estes passos de instalação ainda precisam ser confirmados em cada ambiente de destino. Publicar o repositório não equivale a uma aprovação no catálogo público da OpenAI.
-
-Referências oficiais consultadas em 24/10/2026: [Plugins](https://learn.chatgpt.com/docs/plugins), [Package your plugin](https://developers.openai.com/plugins/build/plugins) e [Plugin management](https://learn.chatgpt.com/docs/enterprise/plugin-management).
+Este repositório distribui o pacote para download e não funciona mais como catálogo de instalação por link do GitHub. Instruções anteriores que usavam esse catálogo foram substituídas por este guia.

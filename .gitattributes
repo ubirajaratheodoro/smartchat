@@ -4,4 +4,3 @@
 *.txt text eol=lf
 *.zip binary
 *.jpg binary
-plugins/** -text
