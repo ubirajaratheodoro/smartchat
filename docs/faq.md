@@ -2,7 +2,7 @@
 
 ## Preciso comprar o modelo para usar SmartChat?
 
-Não. O SmartChat, o prompt público e a [conciliação financeira padrão](../exemplos/conciliacao-financeira/README.md) são gratuitos. O **Modelo de planejamento de tarefas com SmartChat** é uma oferta paga separada, para quem deseja partir de uma estrutura pronta ao criar suas próprias tarefas.
+Não. O SmartChat, o prompt público e a [conciliação financeira padrão](../downloads/conciliacao-financeira/README.md) são gratuitos. O **Modelo de planejamento de tarefas com SmartChat** é uma oferta paga separada, para quem deseja partir de uma estrutura pronta ao criar suas próprias tarefas.
 
 ## Posso utilizar em serviços para clientes?
 
@@ -26,7 +26,7 @@ O SmartChat procura esclarecer informações relevantes e confirmar o entendimen
 
 ## O modelo comercial está nos downloads?
 
-Não. Há dois arquivos com funções diferentes: o plugin SmartChat e a especificação pronta da conciliação financeira padrão, ambos gratuitos. O **Modelo de planejamento de tarefas com SmartChat**, usado para ajudar a criar outras especificações, é vendido separadamente. A tarefa de conciliação não exige essa compra. Consulte [os downloads](../downloads/README.md) e [o tutorial](../exemplos/conciliacao-financeira/README.md).
+Não. Há dois arquivos com funções diferentes: o plugin SmartChat e a especificação pronta da conciliação financeira padrão, ambos gratuitos. O **Modelo de planejamento de tarefas com SmartChat**, usado para ajudar a criar outras especificações, é vendido separadamente. A tarefa de conciliação não exige essa compra. Consulte [os downloads](../downloads/README.md) e [o tutorial](../downloads/conciliacao-financeira/README.md).
 
 ## Preciso pagar por ChatGPT ou Codex?
 

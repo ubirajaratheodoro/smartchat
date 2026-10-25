@@ -26,7 +26,7 @@ Se não encontrar a opção de importar, consulte a [documentação oficial de p
 
 Confira se o SmartChat está selecionado; a aparência de uma resposta, sozinha, não comprova que o plugin está instalado.
 
-Veja o [guia de uso](uso.md) ou acompanhe o [exemplo de conciliação financeira](../exemplos/conciliacao-financeira/).
+Veja o [guia de uso](uso.md) ou acompanhe o [exemplo de conciliação financeira](../downloads/conciliacao-financeira/).
 
 ## Sobre este download
 

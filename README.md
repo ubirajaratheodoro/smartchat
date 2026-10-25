@@ -34,18 +34,14 @@ Exemplos de início de conversa:
 
 Veja o [guia de utilização](docs/uso.md) para saber como conduzir a conversa.
 
-## Veja o SmartChat em ação
+## Downloads e tutoriais
 
-Conheça aplicações que mostram como uma necessidade pode se transformar em uma tarefa especificada e executada com auxílio de IA.
+Encontre os arquivos e suas orientações em um único lugar:
 
-**[Conciliação financeira: do extrato ao demonstrativo com SmartChat](exemplos/conciliacao-financeira/)** - baixe uma tarefa pronta, siga o tutorial e confira um resultado ilustrativo com dados inteiramente fictícios.
+- **[SmartChat](downloads/smartchat/)** — baixe o plugin e consulte como instalar.
+- **[Conciliação financeira](downloads/conciliacao-financeira/)** — baixe a tarefa pronta, siga o tutorial, assista ao vídeo e confira a planilha demonstrativa com dados fictícios.
 
-[Ver as aplicações disponíveis](exemplos/README.md).
-
-## Downloads
-
-- **[Baixar a tarefa de conciliação financeira padrão](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/conciliacao-financeira/especificacao_conciliacao_financeira_padrao_v002.md)** — anexe o arquivo ao SmartChat; ele pedirá os dados necessários. [Ler o tutorial](exemplos/conciliacao-financeira/README.md).
-- [Ver todos os downloads](downloads/README.md), incluindo o plugin SmartChat e o demonstrativo fictício.
+[Ver todos os downloads](downloads/README.md).
 
 ## Crie sua primeira tarefa
 
