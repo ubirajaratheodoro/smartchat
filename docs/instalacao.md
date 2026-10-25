@@ -2,7 +2,7 @@
 
 ## 1. Baixe o plugin
 
-**[⬇ Baixar SmartChat v0.38.3](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/plugin/smartchat-v0.38.3.zip)**
+**[⬇ Baixar SmartChat v0.38.3](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/smartchat/smartchat-v0.38.3.zip)**
 
 Salve o ZIP no computador. Não é necessário baixar o repositório inteiro. Consulte os [termos de uso gratuito](../LICENSE.md).
 

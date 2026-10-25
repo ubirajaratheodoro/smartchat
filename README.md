@@ -8,10 +8,10 @@ Pronto, consolidado e em uso desde abril de 2026. Versão disponibilizada neste 
 
 ## Baixe e comece a usar
 
-### [⬇ Baixar SmartChat gratuitamente — versão 0.38.3](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/plugin/smartchat-v0.38.3.zip)
+### [⬇ Baixar SmartChat gratuitamente — versão 0.38.3](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/smartchat/smartchat-v0.38.3.zip)
 
 1. Leia os [termos de uso gratuito](LICENSE.md).
-2. [Baixe o SmartChat v0.38.3](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/plugin/smartchat-v0.38.3.zip).
+2. [Baixe o SmartChat v0.38.3](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/smartchat/smartchat-v0.38.3.zip).
 3. Consulte as [orientações de instalação para ChatGPT e Codex](docs/instalacao.md).
 4. Inicie uma nova conversa, selecione o SmartChat e descreva o resultado que deseja alcançar.
 
@@ -44,7 +44,7 @@ Conheça aplicações que mostram como uma necessidade pode se transformar em um
 
 ## Downloads
 
-- **[Baixar a tarefa de conciliação financeira padrão](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/especificacao_conciliacao_financeira_padrao_v002.md)** — anexe o arquivo ao SmartChat; ele pedirá os dados necessários. [Ler o tutorial](exemplos/conciliacao-financeira/README.md).
+- **[Baixar a tarefa de conciliação financeira padrão](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/conciliacao-financeira/especificacao_conciliacao_financeira_padrao_v002.md)** — anexe o arquivo ao SmartChat; ele pedirá os dados necessários. [Ler o tutorial](exemplos/conciliacao-financeira/README.md).
 - [Ver todos os downloads](downloads/README.md), incluindo o plugin SmartChat e o demonstrativo fictício.
 
 ## Crie sua primeira tarefa
@@ -69,6 +69,6 @@ O atendimento público não inclui consultoria individual nem prazo garantido de
 
 ## Arquivos e integridade
 
-O pacote para baixar está na pasta [plugin](plugin/). A [verificação de integridade](plugin/SHA256SUMS.txt) é opcional e permite conferir se o download está completo.
+O pacote para baixar está na pasta [downloads/smartchat](downloads/smartchat/). A [verificação de integridade](downloads/smartchat/SHA256SUMS.txt) é opcional e permite conferir se o download está completo.
 
 SmartChat orienta a interação com IA; resultados importantes precisam de conferência. Ele utiliza as ferramentas e permissões disponíveis no ambiente, sem garantir acesso a arquivos ou serviços apenas porque foram mencionados.

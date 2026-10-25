@@ -2,17 +2,17 @@
 
 Esta tarefa confere as movimentações de **uma conta bancária em reais durante um mês** e prepara uma planilha Excel para você revisar. Você não precisa escrever instruções nem escolher um modelo de planilha: o arquivo da tarefa já contém o procedimento e o formato do resultado.
 
-**[⬇ Baixar o arquivo de instruções da conciliação padrão](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/especificacao_conciliacao_financeira_padrao_v002.md)** · [Ver todos os downloads](../../downloads/README.md)
+**[⬇ Baixar o arquivo de instruções da conciliação padrão](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/conciliacao-financeira/especificacao_conciliacao_financeira_padrao_v002.md)** · [Ver todos os downloads](../../downloads/README.md)
 
 A especificação foi revisada conforme o padrão v011. Esta versão reutilizável ainda não foi testada em uma execução completa.
 
 ## Passo 1 — Baixe e envie as instruções
 
-Em uma conversa com SmartChat, anexe [o arquivo de instruções](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/especificacao_conciliacao_financeira_padrao_v002.md) e escreva:
+Em uma conversa com SmartChat, anexe [o arquivo de instruções](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/conciliacao-financeira/especificacao_conciliacao_financeira_padrao_v002.md) e escreva:
 
 > Faça minha conciliação financeira seguindo o arquivo de instruções anexado.
 
-Salve o arquivo com a extensão `.md`. Se o navegador exibir o texto, use **Salvar como** ou abra [a página do arquivo](../../downloads/especificacao_conciliacao_financeira_padrao_v002.md) e clique em **Download raw file**. Você não precisa preencher ou editar o arquivo antes de enviá-lo. Use um ambiente que permita ler seus documentos e gerar arquivos Excel. O arquivo de instruções, sozinho, não instala essas funções.
+Salve o arquivo com a extensão `.md`. Se o navegador exibir o texto, use **Salvar como** ou abra [a página do arquivo](../../downloads/conciliacao-financeira/especificacao_conciliacao_financeira_padrao_v002.md) e clique em **Download raw file**. Você não precisa preencher ou editar o arquivo antes de enviá-lo. Use um ambiente que permita ler seus documentos e gerar arquivos Excel. O arquivo de instruções, sozinho, não instala essas funções.
 
 ## Passo 2 — Responda às perguntas iniciais
 
