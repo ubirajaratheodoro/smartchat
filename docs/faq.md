@@ -1,8 +1,8 @@
 # Perguntas frequentes
 
-## Preciso comprar o padrão para usar SmartChat?
+## Preciso comprar o modelo para usar SmartChat?
 
-Não. O SmartChat e o prompt público podem ser utilizados gratuitamente. O padrão completo é uma oferta paga separada, para quem deseja partir de uma estrutura pronta ao criar suas especificações. Veja uma aplicação em [Veja o SmartChat em ação](../exemplos/README.md).
+Não. O SmartChat, o prompt público e a [conciliação financeira padrão](../exemplos/conciliacao-financeira/README.md) são gratuitos. O **Modelo de planejamento de tarefas com SmartChat** é uma oferta paga separada, para quem deseja partir de uma estrutura pronta ao criar suas próprias tarefas.
 
 ## Posso utilizar em serviços para clientes?
 
@@ -24,9 +24,9 @@ Não. O resultado depende das instruções, entradas, ferramentas disponíveis e
 
 O SmartChat procura esclarecer informações relevantes e confirmar o entendimento antes da entrega. Se precisar de algo mais direto ou uma pergunta parecer pouco útil, explique seu objetivo e peça que reavalie a abordagem.
 
-## O padrão completo está no download?
+## O modelo comercial está nos downloads?
 
-Não. O pacote gratuito contém o SmartChat e seu módulo de referência. O padrão completo é disponibilizado separadamente pela oferta paga. Os exemplos públicos apresentam o percurso de criação e resultados fictícios, sem publicar o padrão nem as especificações preenchidas.
+Não. Há dois arquivos com funções diferentes: o plugin SmartChat e a especificação pronta da conciliação financeira padrão, ambos gratuitos. O **Modelo de planejamento de tarefas com SmartChat**, usado para ajudar a criar outras especificações, é vendido separadamente. A tarefa de conciliação não exige essa compra. Consulte [os downloads](../downloads/README.md) e [o tutorial](../exemplos/conciliacao-financeira/README.md).
 
 ## Preciso pagar por ChatGPT ou Codex?
 

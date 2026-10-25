@@ -1,60 +1,91 @@
-# Conciliação financeira com SmartChat: da conversa à execução
+# Conciliação financeira com SmartChat — tarefa pronta para usar
 
-Transforme uma necessidade do seu trabalho em uma tarefa especificada e teste sua execução. Neste exemplo, o objetivo é gerar um demonstrativo financeiro a partir de extratos e comprovantes do mês.
+Esta tarefa confere as movimentações de **uma conta bancária em reais durante um mês** e prepara uma planilha Excel para você revisar. Você não precisa escrever instruções nem escolher um modelo de planilha: o arquivo da tarefa já contém o procedimento e o formato do resultado.
 
-**[▶ Assista no YouTube: como a especificação foi criada — 3min28s](https://youtu.be/XfYRDwGQp6s)**
+**[⬇ Baixar o arquivo de instruções da conciliação padrão](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/especificacao_conciliacao_financeira_padrao_v002.md)** · [Ver todos os downloads](../../downloads/README.md)
 
-[Baixar o vídeo em MP4](demonstracao-smartchat.mp4)
+A especificação foi revisada conforme o padrão v011. Esta versão reutilizável ainda não foi testada em uma execução completa.
 
-## Passo 1 — Abra o SmartChat e forneça o padrão
+## Passo 1 — Baixe e envie as instruções
 
-Com o [SmartChat instalado](../../docs/instalacao.md), inicie uma conversa, anexe o padrão de especificação e explique o que deseja fazer:
+Em uma conversa com SmartChat, anexe [o arquivo de instruções](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/especificacao_conciliacao_financeira_padrao_v002.md) e escreva:
 
-> Quero automatizar minha conciliação financeira. Ajude-me a criar um arquivo com as instruções para realizar essa tarefa, seguindo o padrão que estou enviando.
+> Faça minha conciliação financeira seguindo o arquivo de instruções anexado.
 
-O SmartChat é gratuito. O padrão utilizado nesta demonstração é uma oferta paga: **[conheça o padrão na Eduzz](https://sun.eduzz.com/Q9NDKAYP01)**. Você também pode elaborar sua própria estrutura.
+Salve o arquivo com a extensão `.md`. Se o navegador exibir o texto, use **Salvar como** ou abra [a página do arquivo](../../downloads/especificacao_conciliacao_financeira_padrao_v002.md) e clique em **Download raw file**. Você não precisa preencher ou editar o arquivo antes de enviá-lo. Use um ambiente que permita ler seus documentos e gerar arquivos Excel. O arquivo de instruções, sozinho, não instala essas funções.
 
-## Passo 2 — Responda às perguntas sobre sua tarefa
+## Passo 2 — Responda às perguntas iniciais
 
-O SmartChat ajuda a esclarecer quais documentos utilizar, o que entregar e quando consultar você. Responda com suas próprias palavras ou escolha uma das opções apresentadas.
+O assistente perguntará onde estão os documentos e qual mês e ano você deseja conciliar. Você poderá indicar uma pasta acessível ou anexar os arquivos. Um link de pasta não garante acesso: se o ambiente não conseguir abri-la, ele explicará como continuar.
 
-Forneça suas referências, como categorias e modelo de planilha. Você pode corrigir o pedido ou mudar de ideia durante a conversa.
+Deixe disponíveis:
 
-**São poucas etapas de trabalho, mas a quantidade de perguntas depende da complexidade da tarefa.**
+- Extrato completo da conta no mês, preferencialmente em CSV ou OFX.
+- Extrato com os saldos de início e fim do período, caso não constem no arquivo principal.
+- Comprovantes, notas fiscais, recibos, faturas, guias e outros documentos das movimentações.
+- Sua lista de categorias, caso já utilize uma. Se não tiver, o assistente proporá uma para sua aprovação.
 
-## Passo 3 — Revise e guarde a especificação
+PDF pode ser utilizado se houver leitura confiável e possibilidade de conferência. Se houver mais de uma conta, o assistente perguntará qual utilizar.
 
-Peça o arquivo para download, confira se ele descreve o que você precisa e solicite os ajustes necessários. Depois, aprove e guarde a versão definitiva.
+Ele também perguntará se você precisa registrar a base de tributação. Esse controle é opcional: os valores dependem da sua confirmação ou das orientações do seu responsável contábil. A tarefa não calcula impostos. Se você não precisar desse controle, o campo ficará ‘Não apurada’.
 
-Esse arquivo reúne as instruções para executar a tarefa novamente.
+Ao final da preparação, confira o resumo e confirme o início. **O modelo da planilha já está definido; não será perguntado qual formato você prefere.**
 
-## Passo 4 — Use a especificação para executar a tarefa
+## Passo 3 — Acompanhe a conferência
 
-Abra uma conversa com um assistente que tenha acesso aos arquivos e às ferramentas necessárias. Anexe **a especificação aprovada**, disponibilize os documentos do período e solicite a execução. Por exemplo:
+O assistente irá:
 
-> Faça a conciliação financeira de setembro de 2026 seguindo as instruções do arquivo que estou enviando. Os extratos e comprovantes estão nesta pasta: [cole aqui o link da pasta]. Primeiro, confira se consegue abrir os arquivos e se tem tudo de que precisa. Se faltar alguma informação ou precisar da minha confirmação, me pergunte.
+1. Ler as movimentações da conta e do mês selecionados.
+2. Conferir entradas, saídas e saldos.
+3. Relacionar movimentações com seus documentos.
+4. Organizar as categorias e destacar o que precisa de esclarecimento.
+5. Preparar a planilha para sua revisão.
 
-Neste caso, as entradas incluem o extrato CSV, os documentos de apoio e a lista de categorias indicada na especificação. Se o assistente não tiver acesso à pasta, forneça os arquivos diretamente ou configure a conexão necessária.
+Pode haver perguntas durante o trabalho. Por exemplo, dois documentos podem ter o mesmo valor, um pagamento pode reunir dois impostos ou um comprovante pode estar faltando. O assistente apresentará a dúvida para você decidir, sem inventar informações para completar a planilha.
 
-O arquivo orienta a execução; o acesso aos documentos e às ferramentas precisa estar disponível.
+## Passo 4 — Confira e aprove
 
-## Passo 5 — Confira o resultado e aprove
+Você receberá uma planilha com identificação da conta e do período, totais de entradas e saídas, saldos, conferência do saldo e esta tabela:
 
-Durante a execução, responda às dúvidas sobre documentos, classificações e outros pontos que dependam da sua decisão. Ao receber a planilha, confira os lançamentos, os totais e as pendências. Solicite ajustes e aprove a entrega.
+| Tipo | Data | Valor | Descrição | Categoria | Base tributação | Documentos |
+| --- | --- | --- | --- | --- | --- | --- |
+| Entrada ou saída | Data no banco | Valor movimentado | Identificação da movimentação | Categoria aprovada | Valor confirmado, quando solicitado | Referências, links ou pendências |
 
-**[Baixe o demonstrativo com dados fictícios](demonstrativo-exemplo.xlsx)** para visualizar uma ilustração do resultado. Ele foi preparado para demonstração e não contém dados financeiros reais.
+O arquivo terá uma única aba, linhas ajustadas ao conteúdo e nenhuma linha ou coluna congelada. O número de lançamentos varia conforme seus documentos.
 
-No próximo mês, reutilize a especificação e informe o novo período e seus documentos.
+Confira as informações e peça correções, se necessário. A tarefa prevê até três correções por arquivo, com nova conferência após cada uma. Se ainda houver falha, o arquivo será identificado como não aprovado e o motivo será explicado. Documentos faltantes continuarão indicados mesmo quando você aceitar sua ausência. A indicação ‘OK’ no saldo significa apenas que os saldos conferem; a revisão dos documentos e sua aprovação também fazem parte da tarefa.
 
----
+Depois de sua aprovação, você receberá a versão final e um arquivo de texto com o registro das conferências e decisões. Se forem criadas ou acrescentadas categorias, receberá também uma nova lista para reutilizar. Os arquivos serão salvos no destino combinado ou entregues para download, conforme os recursos disponíveis.
 
-**Quer partir de uma estrutura pronta? [Conheça o padrão de especificação na Eduzz](https://sun.eduzz.com/Q9NDKAYP01).**
+## No próximo mês
 
-O link da Eduzz é provisório e será atualizado pelo mantenedor. O padrão pago e a especificação completa não são disponibilizados nesta pasta.
+Envie novamente o arquivo de instruções, escreva a mesma frase e responda às perguntas sobre o novo período. Se desejar manter as categorias, forneça a lista aprovada anteriormente. Não é necessário recriar a tarefa.
 
-### Sobre o vídeo e a música
+## O que esta versão não faz
 
-O vídeo reproduz trechos reais da **criação da especificação**, com cortes indicados e sem narração. A execução está explicada nos passos 4 e 5 acima.
+Não realiza pagamentos, calcula impostos, consolida várias contas/moedas/meses, altera seus documentos originais, envia arquivos ao contador ou executa automaticamente todos os meses. Também não oferece escolha de layout. Se faltarem documentos ou recursos essenciais, poderá entregar um trabalho para revisão e explicar o que impede a conclusão.
+
+Você fornece documentos financeiros somente no ambiente escolhido para a execução. Não publique seus extratos, comprovantes ou resultados particulares no GitHub.
+
+## Quer uma tarefa do seu jeito?
+
+Esta conciliação é uma tarefa pronta com resultado padronizado. Para criar instruções para uma conciliação personalizada ou outra atividade, conheça o **Modelo de planejamento de tarefas com SmartChat**.
+
+*Transforme o que você precisa fazer em instruções prontas para a IA executar.*
+
+É um arquivo que orienta o SmartChat a fazer as perguntas necessárias e ajudar a preparar as instruções. Você explica sua necessidade, responde às perguntas e confere o resultado. A compra não inclui uma personalização feita pelo vendedor nem garante que qualquer ambiente tenha as ferramentas necessárias.
+
+[Conheça o Modelo de planejamento de tarefas com SmartChat](https://sun.eduzz.com/Q9NDKAYP01).
+
+Você não precisa adquirir o modelo para utilizar esta conciliação padrão.
+
+## Veja a demonstração e um resultado ilustrativo
+
+**[▶ Assista no YouTube: como a tarefa original foi criada](https://youtu.be/XfYRDwGQp6s)** · [Baixar vídeo em MP4](demonstracao-smartchat.mp4)
+
+O vídeo reproduz trechos da criação da especificação original, com cortes indicados e sem narração. Para executar a versão padrão disponibilizada agora, siga os passos deste tutorial; não é necessário recriar a especificação mostrada no vídeo.
+
+[Baixar demonstrativo com dados fictícios](demonstrativo-exemplo.xlsx). É uma ilustração do resultado, sem dados financeiros reais, e não comprova teste desta nova versão reutilizável.
 
 Música: “Big Rock”, de Kevin MacLeod ([incompetech.com](https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100305)), sob [licença CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adaptações: trecho de 208 segundos, volume reduzido e entrada e saída suaves.
 

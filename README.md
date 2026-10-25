@@ -38,15 +38,20 @@ Veja o [guia de utilização](docs/uso.md) para saber como conduzir a conversa.
 
 Conheça aplicações que mostram como uma necessidade pode se transformar em uma tarefa especificada e executada com auxílio de IA.
 
-**[Conciliação financeira: do extrato ao demonstrativo com SmartChat](exemplos/conciliacao-financeira/)** - acompanhe a criação da tarefa e baixe um resultado ilustrativo com dados inteiramente fictícios.
+**[Conciliação financeira: do extrato ao demonstrativo com SmartChat](exemplos/conciliacao-financeira/)** - baixe uma tarefa pronta, siga o tutorial e confira um resultado ilustrativo com dados inteiramente fictícios.
 
 [Ver as aplicações disponíveis](exemplos/README.md).
+
+## Downloads
+
+- **[Baixar a tarefa de conciliação financeira padrão](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/especificacao_conciliacao_financeira_padrao_v002.md)** — anexe o arquivo ao SmartChat; ele pedirá os dados necessários. [Ler o tutorial](exemplos/conciliacao-financeira/README.md).
+- [Ver todos os downloads](downloads/README.md), incluindo o plugin SmartChat e o demonstrativo fictício.
 
 ## Crie sua primeira tarefa
 
 O [prompt público de criação de tarefa](prompts/criar-tarefa.md) ajuda você a transformar uma atividade em uma especificação e planejar seu teste. Copie o texto, substitua os campos indicados e envie com o SmartChat selecionado.
 
-Você pode utilizar SmartChat e criar tarefas gratuitamente. Para partir de uma estrutura pronta, [conheça o padrão de especificação na Eduzz](https://sun.eduzz.com/Q9NDKAYP01). O padrão completo é uma oferta paga e não integra este repositório. O endereço da Eduzz é provisório e será atualizado pelo mantenedor.
+Você pode utilizar SmartChat e criar tarefas gratuitamente. Para partir de uma estrutura pronta, [conheça o Modelo de planejamento de tarefas com SmartChat](https://sun.eduzz.com/Q9NDKAYP01). Ele orienta a conversa para transformar o que você precisa fazer em instruções para a IA executar. Esse modelo comercial é uma oferta paga e não integra este repositório; a especificação pronta de conciliação é gratuita. O endereço da Eduzz é provisório e será atualizado pelo mantenedor.
 
 ## Gratuito, inclusive para uso profissional
 
