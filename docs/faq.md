@@ -2,7 +2,19 @@
 
 ## Preciso comprar o modelo para usar SmartChat?
 
-Não. O SmartChat, o prompt público e a [conciliação financeira padrão](../downloads/conciliacao-financeira/README.md) são gratuitos. O **Modelo de planejamento de tarefas com SmartChat** é uma oferta paga separada, para quem deseja partir de uma estrutura pronta ao criar suas próprias tarefas.
+Não. O SmartChat e a [conciliação financeira padrão](../downloads/conciliacao-financeira/README.md) são gratuitos. O **Modelo de planejamento de tarefas com SmartChat** é uma oferta paga separada, para quem deseja partir de uma estrutura pronta ao criar suas próprias tarefas.
+
+## Qual a diferença entre a conciliação pronta e o modelo pago?
+
+A conciliação padrão é um arquivo gratuito com as instruções de uma tarefa já definida e um modelo fixo de planilha. O **Modelo de planejamento de tarefas com SmartChat** ajuda a criar o arquivo de instruções de uma tarefa personalizada ou diferente.
+
+## Como começo a criar uma tarefa com o modelo?
+
+Selecione o SmartChat, anexe o arquivo do modelo recebido na compra e descreva o que deseja automatizar. Não é necessário preencher o modelo antes. [Veja uma mensagem simples para começar](../downloads/README.md#para-criar-suas-próprias-tarefas).
+
+## Onde encontro os tutoriais e as demonstrações?
+
+Na pasta [downloads](../downloads/README.md). Cada subpasta reúne seus arquivos e orientações; a de [conciliação financeira](../downloads/conciliacao-financeira/README.md) também contém o tutorial completo, o vídeo e a planilha fictícia.
 
 ## Posso utilizar em serviços para clientes?
 

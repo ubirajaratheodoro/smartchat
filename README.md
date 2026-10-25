@@ -43,11 +43,15 @@ Encontre os arquivos e suas orientações em um único lugar:
 
 [Ver todos os downloads](downloads/README.md).
 
-## Crie sua primeira tarefa
+## Crie sua própria tarefa
 
-O [prompt público de criação de tarefa](prompts/criar-tarefa.md) ajuda você a transformar uma atividade em uma especificação e planejar seu teste. Copie o texto, substitua os campos indicados e envie com o SmartChat selecionado.
+Você pode usar o SmartChat gratuitamente para organizar suas atividades. Para partir de uma estrutura pronta, conheça o **Modelo de planejamento de tarefas com SmartChat**, uma oferta paga separada.
 
-Você pode utilizar SmartChat e criar tarefas gratuitamente. Para partir de uma estrutura pronta, [conheça o Modelo de planejamento de tarefas com SmartChat](https://sun.eduzz.com/Q9NDKAYP01). Ele orienta a conversa para transformar o que você precisa fazer em instruções para a IA executar. Esse modelo comercial é uma oferta paga e não integra este repositório; a especificação pronta de conciliação é gratuita. O endereço da Eduzz é provisório e será atualizado pelo mantenedor.
+Anexe o modelo, explique a tarefa e responda às perguntas. O SmartChat ajuda a preparar um arquivo com as instruções para você revisar e utilizar depois.
+
+[Veja como começar com o modelo](downloads/README.md#para-criar-suas-próprias-tarefas).
+
+A [conciliação financeira padrão](downloads/conciliacao-financeira/) já está pronta e é gratuita; não é necessário comprar o modelo para executá-la.
 
 ## Gratuito, inclusive para uso profissional
 

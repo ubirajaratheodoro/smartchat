@@ -14,11 +14,23 @@ Ao longo da conversa, SmartChat pode pedir informações, examinar premissas e a
 
 Quando pertinente, forneça um exemplo do resultado esperado, as regras aplicáveis e as entradas necessárias. Verifique se os arquivos estão acessíveis ao ambiente. Informe os limites do trabalho e quais operações estão autorizadas.
 
-## Para atividades recorrentes
+## Use uma tarefa pronta
 
-Use o [prompt de criação de tarefa](../prompts/criar-tarefa.md). O objetivo é obter uma especificação reutilizável e um roteiro de teste. A criação do documento e a execução da tarefa são momentos distintos; leia a especificação antes de solicitar sua execução.
+A [conciliação financeira padrão](../downloads/conciliacao-financeira/README.md) é gratuita. Baixe o arquivo de instruções, anexe-o em uma conversa com SmartChat e escreva:
 
-Teste com entradas conhecidas e compare o resultado com critérios explícitos. Registre o que funcionou, o que falhou e quais alterações são necessárias. Um teste bem-sucedido não comprova todos os casos futuros.
+> Faça minha conciliação financeira seguindo o arquivo de instruções anexado.
+
+O assistente perguntará pelos documentos, período e demais informações necessárias. O tutorial, o vídeo e a planilha demonstrativa estão na mesma pasta do download.
+
+## Crie suas próprias tarefas
+
+Você pode conversar com o SmartChat para organizar uma atividade e definir como realizá-la. Se quiser partir de uma estrutura pronta, o **Modelo de planejamento de tarefas com SmartChat** é uma oferta paga separada.
+
+Com o modelo, você anexa o arquivo recebido na compra, descreve a tarefa e responde às perguntas. [Veja a mensagem para começar e o passo a passo](../downloads/README.md#para-criar-suas-próprias-tarefas).
+
+Criar as instruções e executar a tarefa são momentos distintos. Primeiro, revise o arquivo preparado pelo assistente. Depois, anexe esse arquivo e peça a execução, disponibilizando os documentos e acessos necessários.
+
+Teste com entradas conhecidas e confira o resultado. Registre o que funcionou e o que precisa de ajuste. Para repetir a tarefa, reutilize as instruções com os dados da nova execução. Isso não cria um agendamento automático.
 
 ## Módulo opcional de rastreabilidade
 

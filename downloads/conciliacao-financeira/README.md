@@ -73,9 +73,23 @@ Esta conciliação é uma tarefa pronta com resultado padronizado. Para criar in
 
 *Transforme o que você precisa fazer em instruções prontas para a IA executar.*
 
-É um arquivo que orienta o SmartChat a fazer as perguntas necessárias e ajudar a preparar as instruções. Você explica sua necessidade, responde às perguntas e confere o resultado. A compra não inclui uma personalização feita pelo vendedor nem garante que qualquer ambiente tenha as ferramentas necessárias.
+É um arquivo que orienta o SmartChat a fazer as perguntas necessárias e ajudar a preparar as instruções. Você explica sua necessidade, responde às perguntas e confere o resultado.
 
-[Conheça o Modelo de planejamento de tarefas com SmartChat](https://sun.eduzz.com/Q9NDKAYP01).
+**Como começar com o modelo**
+
+1. Abra uma conversa com o SmartChat selecionado.
+2. Anexe o arquivo do **Modelo de planejamento de tarefas com SmartChat**, recebido na compra.
+3. Descreva sua tarefa com uma mensagem simples:
+
+> Quero automatizar [descreva a tarefa]. Use o modelo que estou enviando para me ajudar a criar um arquivo com as instruções dessa tarefa e me faça as perguntas necessárias.
+
+Troque apenas o trecho entre colchetes pela atividade que deseja automatizar, por exemplo: “preparar propostas comerciais”. Você não precisa preencher o modelo: responda às perguntas do SmartChat e revise o arquivo de instruções que ele preparar.
+
+Essa conversa serve para **criar as instruções da sua tarefa**. Depois da revisão, você poderá anexar o arquivo criado em outra conversa e pedir sua execução, fornecendo os documentos e acessos necessários.
+
+**[Conheça o Modelo de planejamento de tarefas com SmartChat](https://sun.eduzz.com/Q9NDKAYP01).**
+
+A oferta entrega o modelo para você criar suas instruções com o SmartChat. A execução da tarefa criada depende das ferramentas e permissões disponíveis no ambiente.
 
 Você não precisa adquirir o modelo para utilizar esta conciliação padrão.
 

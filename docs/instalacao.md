@@ -26,10 +26,10 @@ Se não encontrar a opção de importar, consulte a [documentação oficial de p
 
 Confira se o SmartChat está selecionado; a aparência de uma resposta, sozinha, não comprova que o plugin está instalado.
 
-Veja o [guia de uso](uso.md) ou acompanhe o [exemplo de conciliação financeira](../downloads/conciliacao-financeira/).
+Veja o [guia de uso](uso.md) ou comece pela [tarefa gratuita de conciliação financeira](../downloads/conciliacao-financeira/). Nessa pasta estão o arquivo de instruções, o tutorial, o vídeo e a planilha demonstrativa.
 
 ## Sobre este download
 
 O ZIP é o pacote original exportado, versão **0.38.3**, sem alterações. Sua integridade foi preservada. A instalação deve ser conferida no ambiente em que será utilizado.
 
-Este repositório distribui o pacote para download e não funciona mais como catálogo de instalação por link do GitHub. Instruções anteriores que usavam esse catálogo foram substituídas por este guia.
+Os arquivos e tutoriais estão reunidos em [downloads](../downloads/README.md), separados por produto ou tarefa. O ZIP do SmartChat é o pacote de instalação; o arquivo `.md` da conciliação contém instruções para anexar à conversa depois de selecionar o SmartChat.
