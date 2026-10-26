@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1160" viewBox="0 0 960 1160" role="img" aria-labelledby="title desc">
+<title id="title">O que você encontra aqui</title>
+<desc id="desc">Comece pelo SmartChat gratuito para conversar sobre o que precisa. Para automatizar uma tarefa, escolha conforme sua necessidade: conciliação financeira pronta e gratuita, ou modelo de planejamento de tarefas com SmartChat, pago e opcional, para criar instruções personalizadas. O repositório também oferece guias de instalação, uso e perguntas frequentes.</desc>
+<rect width="960" height="1160" rx="24" fill="#F4F7F8"/>
+<path d="M24 0h912q24 0 24 24v180H0V24Q0 0 24 0" fill="#132D3A"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<rect x="40" y="32" width="7" height="26" rx="3" fill="#32B7A5"/>
+<text x="62" y="54" font-size="22" font-weight="600" letter-spacing="2" fill="#B6E5D8">EXPLORE O REPOSITÓRIO</text>
+<text x="40" y="111" font-size="46" font-weight="700" fill="white">O que você encontra aqui</text>
+<text x="40" y="154" font-size="27" fill="#C9D8DF">Comece pelo SmartChat. Escolha o que faz sentido para você.</text>
+
+<rect x="40" y="214" width="880" height="180" rx="20" fill="#E1F3ED" stroke="#9ACDBC"/>
+<text x="68" y="251" font-size="22" font-weight="700" fill="#087F70">SEU PONTO DE PARTIDA</text>
+<rect x="721" y="234" width="171" height="36" rx="18" fill="#087F70"/>
+<text x="806" y="259" text-anchor="middle" font-size="21" font-weight="700" fill="white">GRATUITO</text>
+<text x="68" y="301" font-size="39" font-weight="700" fill="#142D3A">SmartChat</text>
+<text x="68" y="340" font-size="28" fill="#405A66">Baixe, instale e converse sobre o que precisa.</text>
+<text x="68" y="376" font-size="28" fill="#405A66">Você já pode usar o assistente no seu dia a dia.</text>
+
+<text x="40" y="453" font-size="29" font-weight="700" fill="#142D3A">Quer automatizar uma tarefa? Escolha um caminho:</text>
+<path d="M75 480v373M75 603h45M75 853h45" fill="none" stroke="#A9BCC4" stroke-width="3"/>
+<circle cx="75" cy="603" r="7" fill="#176F9B"/>
+<circle cx="75" cy="853" r="7" fill="#8B5D24"/>
+
+<rect x="120" y="490" width="800" height="226" rx="20" fill="white" stroke="#CBDDE8"/>
+<text x="148" y="532" font-size="22" font-weight="700" fill="#176F9B">USAR UMA TAREFA PRONTA</text>
+<rect x="721" y="510" width="171" height="36" rx="18" fill="#E7F2F8"/>
+<text x="806" y="535" text-anchor="middle" font-size="21" font-weight="700" fill="#176F9B">GRATUITA</text>
+<text x="148" y="583" font-size="35" font-weight="700" fill="#142D3A">Conciliação financeira</text>
+<text x="148" y="624" font-size="28" fill="#405A66">Instruções prontas e uma planilha padronizada.</text>
+<text x="148" y="661" font-size="28" fill="#405A66">Baixe a tarefa e siga o tutorial.</text>
+<text x="148" y="696" font-size="24" fill="#176F9B">Inclui vídeo e exemplo com dados fictícios.</text>
+
+<rect x="120" y="742" width="800" height="244" rx="20" fill="white" stroke="#E5D4BB"/>
+<text x="148" y="784" font-size="22" font-weight="700" fill="#8B5D24">CRIAR UMA TAREFA DO SEU JEITO</text>
+<rect x="685" y="762" width="207" height="36" rx="18" fill="#FBF0DF"/>
+<text x="788" y="787" text-anchor="middle" font-size="20" font-weight="700" fill="#81551E">PAGO · OPCIONAL</text>
+<text x="148" y="834" font-size="33" font-weight="700" fill="#142D3A">Modelo de planejamento</text>
+<text x="148" y="873" font-size="33" font-weight="700" fill="#142D3A">de tarefas com SmartChat</text>
+<text x="148" y="915" font-size="28" fill="#405A66">Uma estrutura para criar suas próprias instruções.</text>
+<text x="148" y="956" font-size="24" fill="#8B5D24">Veja como funciona. A compra é feita na Eduzz.</text>
+
+<rect x="40" y="1020" width="880" height="108" rx="20" fill="#E8EEF1"/>
+<text x="68" y="1063" font-size="29" font-weight="700" fill="#142D3A">Precisa de orientação?</text>
+<text x="68" y="1102" font-size="27" fill="#405A66">Guias de instalação, uso e perguntas frequentes.</text>
+</g></svg>

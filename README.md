@@ -6,6 +6,20 @@ O SmartChat organiza a conversa para entender o objetivo, identificar informaç�
 
 Pronto, consolidado e em uso desde abril de 2026. Versão disponibilizada neste repositório: **0.38.3**.
 
+## Por onde começar
+
+Comece pelo SmartChat gratuito. Depois, se quiser automatizar uma tarefa, explore a conciliação pronta ou conheça o modelo para criar suas próprias instruções. Escolha conforme sua necessidade.
+
+<img src="downloads/imagens/mapa-do-repositorio.svg" alt="Mapa do repositório: SmartChat gratuito como ponto de partida; conciliação financeira pronta e gratuita; modelo de planejamento pago e opcional para criar tarefas personalizadas; guias de instalação, uso e dúvidas." width="720">
+
+**Acesse cada opção:**
+
+- **[Começar com o SmartChat](downloads/smartchat/)** — baixar e instalar gratuitamente.
+- **[Usar a conciliação financeira](downloads/conciliacao-financeira/)** — tarefa pronta, tutorial, vídeo e resultado fictício.
+- **[Conhecer o modelo de planejamento](downloads/README.md#para-criar-suas-próprias-tarefas)** — como criar instruções personalizadas com o modelo pago.
+
+**Guias de apoio:** [Instalação](docs/instalacao.md) · [Como usar](docs/uso.md) · [Perguntas frequentes](docs/faq.md).
+
 ## Baixe e comece a usar
 
 ### [⬇ Baixar SmartChat gratuitamente — versão 0.38.3](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/smartchat/smartchat-v0.38.3.zip)
