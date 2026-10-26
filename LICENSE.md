@@ -1,45 +1,48 @@
-# Licença de uso gratuito do SmartChat
+# SmartChat free-use license
 
-Versão 1.0 | 24/10/2026
+**English** | [Português](LICENSE.pt-BR.md)
 
-Copyright © 2026 GPT Creator. Direitos reservados, exceto pelas permissões expressas abaixo e pelos direitos obrigatórios aplicáveis.
+This is an English translation for reference. The [original Portuguese license](LICENSE.pt-BR.md) is preserved; this translation does not grant additional permissions.
 
-Esta licença abrange o plugin SmartChat, seus arquivos de instruções, configurações, materiais de referência, identidade visual e documentação distribuídos neste repositório pelo mantenedor oficial, `ubirajaratheodoro`.
+Version 1.0 | October 24, 2026
 
-## Permissões
+Copyright © 2026 GPT Creator. All rights reserved, except for the express permissions below and applicable mandatory rights.
 
-É concedida permissão gratuita e não exclusiva para baixar, instalar, executar e utilizar o SmartChat, inclusive em atividades profissionais e na prestação de serviços remunerados a terceiros. São permitidas as cópias necessárias à instalação, ao funcionamento e ao backup para esse uso, respeitados os direitos e termos das plataformas envolvidas.
+This license covers the SmartChat plugin, its instruction files, settings, reference materials, visual identity, and documentation distributed in this repository by the official maintainer, `ubirajaratheodoro`.
 
-O usuário pode criar, editar, reutilizar e entregar aos seus clientes suas próprias especificações de tarefas, prompts, documentos e demais resultados produzidos com auxílio do SmartChat. A licença não impõe exclusividade ao uso desses resultados nem autoriza incorporar ou redistribuir neles os arquivos do plugin.
+## Permissions
 
-Selecionar opções oferecidas pelo ambiente, fornecer instruções de tarefa e utilizar configurações expressamente previstas não equivale, por si só, a modificar os arquivos do plugin.
+Free, non-exclusive permission is granted to download, install, run, and use SmartChat, including for professional activities and paid services provided to third parties. Copies necessary for installation, operation, and backup for that use are permitted, subject to the rights and terms of the platforms involved.
 
-## Restrições
+Users may create, edit, reuse, and deliver to their clients their own task specifications, prompts, documents, and other outputs produced with SmartChat's assistance. This license does not impose exclusive use of those outputs or authorize incorporating or redistributing the plugin files in them.
 
-Sem autorização prévia e expressa do titular, não é permitido:
+Selecting options provided by the environment, supplying task instructions, and using expressly supported settings does not, by itself, constitute modifying the plugin files.
 
-- Modificar ou criar versões derivadas dos arquivos do plugin SmartChat.
-- Redistribuir, republicar, sublicenciar, vender ou disponibilizar cópias do plugin ou de seus componentes, gratuitamente ou mediante pagamento.
-- Remover avisos de titularidade ou apresentar o SmartChat como criação própria.
-- Usar a marca ou identidade visual de forma que sugira representação oficial ou endosso não concedido.
+## Restrictions
 
-Para indicar o SmartChat a outras pessoas, compartilhe o endereço do repositório oficial para que obtenham sua própria cópia.
+Without the rights holder's prior express authorization, you may not:
 
-## Direitos da plataforma e da legislação
+- Modify or create derivative versions of the SmartChat plugin files.
+- Redistribute, republish, sublicense, sell, or make copies of the plugin or its components available, whether free of charge or for payment.
+- Remove ownership notices or present SmartChat as your own creation.
+- Use the brand or visual identity in a way that suggests official representation or endorsement that has not been granted.
 
-Estas restrições não limitam direitos concedidos pelos termos do GitHub para visualização e fork dentro da plataforma, nem direitos que não possam ser afastados pela legislação aplicável. Esses direitos não constituem autorização adicional para distribuição externa ou exploração de versões modificadas.
+To recommend SmartChat to others, share the official repository address so they can obtain their own copy.
 
-Esta é uma licença de uso gratuito com direitos reservados, não uma licença de código aberto.
+## Platform and statutory rights
 
-## Condições de utilização
+These restrictions do not limit rights granted by GitHub's terms for viewing and forking within the platform, or rights that cannot be waived under applicable law. Such rights do not constitute additional authorization for external distribution or exploitation of modified versions.
 
-Contas, assinaturas, limites e serviços externos são de responsabilidade do usuário e seguem os termos de seus fornecedores. A distribuição gratuita não inclui promessa de suporte individual, atualizações por prazo determinado ou disponibilidade ininterrupta.
+This is a free-use license with reserved rights, not an open-source license.
 
-O SmartChat é disponibilizado no estado em que se encontra. Não há garantia de ausência de erros ou de adequação a toda finalidade. Cabe ao usuário conferir resultados e autorizar o tratamento de dados e as operações pertinentes, observados os direitos e responsabilidades que a legislação aplicável não permita excluir.
+## Conditions of use
 
-O padrão completo de especificação e os materiais de cursos pagos não fazem parte desta distribuição. Seus direitos de uso são definidos separadamente.
+Accounts, subscriptions, limits, and external services are the user's responsibility and follow their providers' terms. Free distribution does not include a promise of individual support, updates for a specified period, or uninterrupted availability.
 
-## Contato
+SmartChat is provided as is. There is no guarantee that it is free of errors or suitable for every purpose. Users are responsible for checking results and authorizing relevant data processing and operations, subject to rights and responsibilities that applicable law does not allow to be excluded.
 
-Para solicitar permissões adicionais, contate o mantenedor pelo repositório oficial: https://github.com/ubirajaratheodoro/smartchat.
+The complete specification standard and paid course materials are not part of this distribution. Their usage rights are defined separately.
 
+## Contact
+
+To request additional permissions, contact the maintainer through the [official repository](https://github.com/ubirajaratheodoro/smartchat).

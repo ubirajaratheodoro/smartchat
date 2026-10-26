@@ -1,90 +1,92 @@
 # SmartChat
 
-**Português** | [English](README.en.md)
+**English** | [Português](README.pt-BR.md)
 
-**Um assistente que ajuda a esclarecer sua necessidade antes de construir a resposta.**
+**An assistant that helps clarify what you need before building a response.**
 
-O SmartChat organiza a conversa para entender o objetivo, identificar informações relevantes, examinar premissas e construir uma resposta adequada ao trabalho. Você pode começar explicando o que precisa, com suas próprias palavras.
+SmartChat structures the conversation to understand your goal, identify relevant information, examine assumptions, and develop a response suited to your work. Start by explaining what you need in your own words.
 
-Pronto, consolidado e em uso desde abril de 2026. Versão disponibilizada neste repositório: **0.38.3**.
+Established and in use since April 2026. Version available in this repository: **0.38.3**.
 
-## Por onde começar
+## Where to start
 
-Comece pelo SmartChat gratuito. Depois, se quiser automatizar uma tarefa, explore as tarefas prontas e os exemplos gratuitos ou conheça o modelo para criar suas próprias instruções. Escolha conforme sua necessidade.
+Start with the free SmartChat plugin. To automate a task, explore the free ready-to-use tasks and examples, or learn about the template for creating your own instructions. Choose what fits your needs.
 
-<img src="downloads/imagens/mapa-do-repositorio.svg" alt="Mapa do repositório: SmartChat gratuito como ponto de partida; tarefas prontas e exemplos gratuitos; modelo de planejamento pago e opcional para criar tarefas personalizadas; guias de instalação, uso e dúvidas." width="720">
+<img src="downloads/imagens/mapa-do-repositorio.en.svg" alt="Repository map: start with free SmartChat; explore free ready-to-use tasks and examples, checking their languages; optionally use the paid Task Planning Template, currently in Portuguese; find installation, usage, and FAQ guides." width="720">
 
-**Acesse cada opção:**
+**Explore each option:**
 
-- **[Começar com o SmartChat](downloads/smartchat/)** — baixar e instalar gratuitamente.
-- **[Explorar tarefas prontas e exemplos](downloads/README.md)** — materiais gratuitos, demonstrações e orientações para usar.
-- **[Conhecer o modelo de planejamento](downloads/README.md#para-criar-suas-próprias-tarefas)** — como criar instruções personalizadas com o modelo pago.
+- **[Get started with SmartChat](downloads/smartchat/README.md)** — download and installation guidance.
+- **[Explore ready-to-use tasks and examples](downloads/README.md)** — free materials, demonstrations, and tutorials, with language and scope listed for each task.
+- **[Learn about the Task Planning Template](downloads/README.md#create-your-own-tasks)** — a paid, optional template, currently available in Portuguese.
 
-**Guias de apoio:** [Instalação](docs/instalacao.md) · [Como usar](docs/uso.md) · [Perguntas frequentes](docs/faq.md).
+**Help:** [Installation](docs/instalacao.md) · [User guide](docs/uso.md) · [Frequently asked questions](docs/faq.md).
 
-## Baixe e comece a usar
+## Download and get started
 
-### [⬇ Baixar SmartChat gratuitamente — versão 0.38.3](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/smartchat/smartchat-v0.38.3.zip)
+### [⬇ Download SmartChat for free — version 0.38.3](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/smartchat/smartchat-v0.38.3.zip)
 
-1. Leia os [termos de uso gratuito](LICENSE.md).
-2. [Baixe o SmartChat v0.38.3](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/smartchat/smartchat-v0.38.3.zip).
-3. Consulte as [orientações de instalação para ChatGPT e Codex](docs/instalacao.md).
-4. Inicie uma nova conversa, selecione o SmartChat e descreva o resultado que deseja alcançar.
+1. Read the [free-use license](LICENSE.md).
+2. [Download SmartChat v0.38.3](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/smartchat/smartchat-v0.38.3.zip).
+3. Follow the [installation guide for ChatGPT and Codex](docs/instalacao.md).
+4. Start a new conversation, select SmartChat, and describe the outcome you want.
 
-Baixe apenas o arquivo ZIP pelo link acima. Não é necessário baixar o repositório inteiro nem escolher entre várias pastas. O pacote original foi preservado, sem alterações.
+Download only the ZIP using the link above. You do not need to download the entire repository or choose between multiple folders. The original package is unchanged. These English pages explain how to use it; they do not provide a separately translated plugin package.
 
-## O que você pode fazer
+## What you can do
 
-- Estruturar uma ideia ou solicitação antes de executá-la.
-- Analisar uma proposta, comparar alternativas e explicitar critérios de decisão.
-- Organizar informações para criar um documento ou resolver um problema.
-- Criar uma especificação de tarefa que possa ser revisada e testada.
+- Structure an idea or request before carrying it out.
+- Analyze a proposal, compare alternatives, and clarify decision criteria.
+- Organize information to create a document or solve a problem.
+- Create task instructions that you can review and test.
 
-Exemplos de início de conversa:
+Example starting messages:
 
-> Use o SmartChat para me ajudar a estruturar uma proposta de serviço. Tenho estas informações: [...].
+> Use SmartChat to help me structure a service proposal. Here is the information I have: [...].
 
-> Use o SmartChat para analisar esta decisão. Meu objetivo é [...], e minhas restrições são [...].
+> Use SmartChat to help me analyze this decision. My goal is [...], and my constraints are [...].
 
-> Use o SmartChat para transformar esta atividade recorrente em uma tarefa documentada: [...].
+> Use SmartChat to help me turn this recurring activity into a documented task: [...].
 
-Veja o [guia de utilização](docs/uso.md) para saber como conduzir a conversa.
+See the [user guide](docs/uso.md) for ways to guide the conversation.
 
-## Downloads e tutoriais
+## Downloads and tutorials
 
-Encontre os arquivos e suas orientações em um único lugar:
+Find the files and their instructions in one place:
 
-- **[SmartChat](downloads/smartchat/)** — baixe o plugin e consulte como instalar.
-- **[Conciliação financeira](downloads/conciliacao-financeira/)** — baixe a tarefa pronta, siga o tutorial, assista ao vídeo e confira a planilha demonstrativa com dados fictícios.
+- **[SmartChat](downloads/smartchat/README.md)** — the free plugin and installation guide.
+- **[Financial reconciliation — Portuguese only](downloads/conciliacao-financeira/README.pt-BR.md)** — a ready-to-use task, tutorial, video, and fictional sample spreadsheet. Prepared for use in Brazil, for one bank account in Brazilian reais (BRL) over one month. It is not adapted to other countries.
 
-[Ver todos os downloads](downloads/README.md).
+[Browse all downloads](downloads/README.md). Each task lists its available language and scope.
 
-## Crie sua própria tarefa
+## Create your own task
 
-Você pode usar o SmartChat gratuitamente para organizar suas atividades. Para partir de uma estrutura pronta, conheça o **Modelo de planejamento de tarefas com SmartChat**, uma oferta paga separada.
+You can use SmartChat for free to organize your activities. If you want a predefined structure to work from, the **SmartChat Task Planning Template** is a separate paid product.
 
-Anexe o modelo, explique a tarefa e responda às perguntas. O SmartChat ajuda a preparar um arquivo com as instruções para você revisar e utilizar depois.
+Attach the template, explain the task, and answer the questions. SmartChat helps prepare a file with instructions for you to review and use later.
 
-[Veja como começar com o modelo](downloads/README.md#para-criar-suas-próprias-tarefas).
+[See how the template works](downloads/README.md#create-your-own-tasks).
 
-A [conciliação financeira padrão](downloads/conciliacao-financeira/) já está pronta e é gratuita; não é necessário comprar o modelo para executá-la.
+The product is currently offered in Portuguese under the name **Modelo de planejamento de tarefas com SmartChat**. The English explanation here does not mean that an English edition of the paid file is available.
 
-## Gratuito, inclusive para uso profissional
+The [standard financial reconciliation task (Portuguese only)](downloads/conciliacao-financeira/README.pt-BR.md) is already prepared and free to use; buying the template is not required.
 
-Você pode utilizar SmartChat para seu trabalho e para prestar serviços a clientes. Também pode criar, adaptar e entregar suas próprias tarefas, prompts, documentos e demais resultados.
+## Free, including for professional use
 
-A permissão não inclui modificar ou redistribuir o plugin SmartChat. Consulte a [licença](LICENSE.md), que também esclarece os direitos de visualização e fork previstos nos termos do GitHub. Disponibilização pública e gratuita não significa licença de código aberto.
+You may use SmartChat for your work and to provide services to clients. You may also create, adapt, and deliver your own tasks, prompts, documents, and other outputs.
 
-A gratuidade se refere ao SmartChat. Contas, planos, limites e ferramentas externas seguem as condições de seus fornecedores. A disponibilidade de instalação depende do ambiente e das permissões da conta.
+This permission does not include modifying or redistributing the SmartChat plugin. See the [license](LICENSE.md), which also addresses viewing and forking rights under GitHub's terms. Public and free availability does not make it open-source software.
 
-## Dúvidas e problemas
+SmartChat itself is free. Accounts, plans, limits, and external tools follow their providers' terms. Installation availability depends on your environment and account permissions.
 
-Consulte as [perguntas frequentes](docs/faq.md). Se precisar registrar um problema, [abra uma issue](https://github.com/ubirajaratheodoro/smartchat/issues/new) informando ambiente, versão e passos para reproduzir. Remova dados pessoais, documentos de clientes e informações confidenciais antes de publicar.
+## Questions and problems
 
-O atendimento público não inclui consultoria individual nem prazo garantido de resposta. Sugestões podem ser registradas em issues; a publicação de alterações no plugin é mantida pelo responsável pelo projeto.
+Read the [FAQ](docs/faq.md). To report a problem, [open an issue](https://github.com/ubirajaratheodoro/smartchat/issues/new) with your environment, version, and steps to reproduce it. Remove personal information, client documents, and confidential information before posting.
 
-## Arquivos e integridade
+Public support does not include individual consulting or a guaranteed response time. You can submit suggestions through issues; the project maintainer manages plugin releases.
 
-O pacote para baixar está na pasta [downloads/smartchat](downloads/smartchat/). A [verificação de integridade](downloads/smartchat/SHA256SUMS.txt) é opcional e permite conferir se o download está completo.
+## Files and integrity
 
-SmartChat orienta a interação com IA; resultados importantes precisam de conferência. Ele utiliza as ferramentas e permissões disponíveis no ambiente, sem garantir acesso a arquivos ou serviços apenas porque foram mencionados.
+The installation package is in [downloads/smartchat](downloads/smartchat/README.md). The optional [integrity check](downloads/smartchat/SHA256SUMS.txt) helps verify that the download is complete.
+
+SmartChat guides interaction with AI; important results need review. It uses the tools and permissions available in its environment. Mentioning a file or service alone does not grant access to it.

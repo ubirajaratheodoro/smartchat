@@ -1,26 +1,28 @@
-# SmartChat — download do plugin
+# SmartChat — plugin download
 
-**Português** | [English](README.en.md)
+**English** | [Português](README.pt-BR.md)
 
-**Versão disponível: 0.38.3.**
+**Available version: 0.38.3.**
 
-**[⬇ Baixar SmartChat v0.38.3 em ZIP](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/smartchat/smartchat-v0.38.3.zip)**
+**[⬇ Download SmartChat v0.38.3 as a ZIP](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/smartchat/smartchat-v0.38.3.zip)**
 
-O pacote é gratuito, inclusive para uso profissional, conforme os [termos de uso](../../LICENSE.md). Este é o pacote original exportado, sem alteração de conteúdo.
+The package is free, including for professional use, under the [license](../../LICENSE.md). This is the original exported package, with no content changes.
 
-## Como começar
+**Package language:** its instructions and references are in Portuguese. These English pages provide guidance; they do not constitute a separate English plugin release. You can request responses in English when describing your task.
 
-1. Baixe o ZIP pelo link acima.
-2. Siga as [orientações de instalação](../../docs/instalacao.md) no ambiente compatível que você utiliza.
-3. Selecione o SmartChat e descreva o que deseja realizar.
+## Get started
 
-Anexar o ZIP em uma conversa não instala o plugin. A instalação e os recursos disponíveis dependem do ambiente e das permissões da conta.
+1. Download the ZIP using the link above.
+2. Follow the [installation guide](../../docs/instalacao.md) for your compatible environment.
+3. Select SmartChat and describe what you want to accomplish.
 
-## Arquivos desta pasta
+Attaching the ZIP to a conversation does not install the plugin. Installation and available features depend on the environment and account permissions.
 
-| Arquivo | Finalidade |
+## Files in this folder
+
+| File | Purpose |
 | --- | --- |
-| [smartchat-v0.38.3.zip](smartchat-v0.38.3.zip) | Pacote do plugin para instalação. |
-| [SHA256SUMS.txt](SHA256SUMS.txt) | Verificação opcional de integridade do download. Não é necessário baixar para instalar. |
+| [smartchat-v0.38.3.zip](smartchat-v0.38.3.zip) | Plugin installation package. |
+| [SHA256SUMS.txt](SHA256SUMS.txt) | Optional download integrity check. You do not need it to install the plugin. |
 
-[Guia de uso](../../docs/uso.md) · [Conciliação financeira pronta para usar](../conciliacao-financeira/) · [Todos os downloads](../README.md)
+[User guide](../../docs/uso.md) · [Tasks, examples, and all downloads](../README.md) · [Back to SmartChat](../../README.md)

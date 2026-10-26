@@ -1,37 +1,41 @@
-# Como instalar o SmartChat
+# How to install SmartChat
 
-**Português** | [English](instalacao.en.md)
+**English** | [Português](instalacao.pt-BR.md)
 
-## 1. Baixe o plugin
+## 1. Download the plugin
 
-**[⬇ Baixar SmartChat v0.38.3](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/smartchat/smartchat-v0.38.3.zip)**
+**[⬇ Download SmartChat v0.38.3](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/smartchat/smartchat-v0.38.3.zip)**
 
-Salve o ZIP no computador. Não é necessário baixar o repositório inteiro. Consulte os [termos de uso gratuito](../LICENSE.md).
+Save the ZIP to your computer. You do not need to download the entire repository. Read the [free-use license](../LICENSE.md).
 
-## 2. Confira a opção de instalação
+## 2. Check the installation option
 
-Abra a área **Plugins** do aplicativo que pretende usar e procure a opção de importar ou enviar um pacote próprio.
+Open the **Plugins** area in the application you intend to use and look for an option to import or upload your own package.
 
-A instalação por ZIP depende do aplicativo, da conta e das permissões disponíveis. Se houver essa opção, selecione o ZIP que você baixou e siga as instruções da tela. Mantenha o arquivo compactado, a menos que o próprio instalador peça uma pasta descompactada.
+ZIP installation depends on the application, account, and available permissions. If that option is available, select the downloaded ZIP and follow the on-screen instructions. Keep the file compressed unless the installer asks for an extracted folder.
 
-Anexar o ZIP como documento de uma conversa não instala o plugin.
+Attaching the ZIP as a document in a conversation does not install the plugin.
 
-Se não encontrar a opção de importar, consulte a [documentação oficial de plugins](https://learn.chatgpt.com/docs/plugins) ou o administrador do seu workspace. O download não garante instalação em todas as versões do ChatGPT ou do Codex.
+If you cannot find an import option, consult the [official plugin documentation](https://learn.chatgpt.com/docs/plugins) or your workspace administrator. Downloading the file does not guarantee installation in every version of ChatGPT or Codex.
 
-## 3. Selecione o SmartChat e comece
+## 3. Select SmartChat and get started
 
-1. Após instalar, abra uma nova conversa ou sessão.
-2. Selecione **SmartChat** na lista de plugins ou pela menção com `@`, quando disponível.
-3. Explique o que precisa, por exemplo:
+1. After installation, open a new conversation or session.
+2. Select **SmartChat** from the plugin list or with an `@` mention, when available.
+3. Explain what you need, for example:
 
-> Quero organizar uma tarefa que faço todo mês. Ajude-me a definir o resultado, as informações necessárias e como conferir se ficou tudo certo.
+> I want to organize a task I perform every month. Help me define the outcome, the information needed, and how to check that everything is correct. Please respond in English.
 
-Confira se o SmartChat está selecionado; a aparência de uma resposta, sozinha, não comprova que o plugin está instalado.
+Check that SmartChat is selected. The appearance of a response alone does not prove the plugin is installed.
 
-Veja o [guia de uso](uso.md) ou comece pela [tarefa gratuita de conciliação financeira](../downloads/conciliacao-financeira/). Nessa pasta estão o arquivo de instruções, o tutorial, o vídeo e a planilha demonstrativa.
+Read the [user guide](uso.md) or [browse available tasks and examples](../downloads/README.md). The financial reconciliation task and its tutorial, video, and sample spreadsheet are currently **Portuguese only**, prepared for use in Brazil with amounts in BRL.
 
-## Sobre este download
+## About this download
 
-O ZIP é o pacote original exportado, versão **0.38.3**, sem alterações. Sua integridade foi preservada. A instalação deve ser conferida no ambiente em que será utilizado.
+The ZIP is the original exported package, version **0.38.3**, with no content changes. Its integrity is preserved. Installation must be checked in the environment where you intend to use it.
 
-Os arquivos e tutoriais estão reunidos em [downloads](../downloads/README.md), separados por produto ou tarefa. O ZIP do SmartChat é o pacote de instalação; o arquivo `.md` da conciliação contém instruções para anexar à conversa depois de selecionar o SmartChat.
+The package contains instructions and references in Portuguese. These English guides do not constitute a separately translated or independently validated English plugin release. You can request responses in English when describing your task.
+
+Files and tutorials are grouped in [downloads](../downloads/README.md), by product or task. The SmartChat ZIP is the installation package; a task's `.md` file contains instructions to attach to the conversation after selecting SmartChat.
+
+[Back to SmartChat](../README.md)

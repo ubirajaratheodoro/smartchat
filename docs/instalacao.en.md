@@ -1,12 +1,12 @@
 # How to install SmartChat
 
-[Português](instalacao.md) | **English**
+**English** | [Português](instalacao.pt-BR.md)
 
 ## 1. Download the plugin
 
 **[⬇ Download SmartChat v0.38.3](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/smartchat/smartchat-v0.38.3.zip)**
 
-Save the ZIP to your computer. You do not need to download the entire repository. Read the [free-use license (Portuguese)](../LICENSE.md).
+Save the ZIP to your computer. You do not need to download the entire repository. Read the [free-use license](../LICENSE.md).
 
 ## 2. Check the installation option
 
@@ -28,7 +28,7 @@ If you cannot find an import option, consult the [official plugin documentation]
 
 Check that SmartChat is selected. The appearance of a response alone does not prove the plugin is installed.
 
-Read the [user guide](uso.en.md) or [browse available tasks and examples](../downloads/README.en.md). The financial reconciliation task and its tutorial, video, and sample spreadsheet are currently **Portuguese only**, prepared for use in Brazil with amounts in BRL.
+Read the [user guide](uso.md) or [browse available tasks and examples](../downloads/README.md). The financial reconciliation task and its tutorial, video, and sample spreadsheet are currently **Portuguese only**, prepared for use in Brazil with amounts in BRL.
 
 ## About this download
 
@@ -36,6 +36,6 @@ The ZIP is the original exported package, version **0.38.3**, with no content ch
 
 The package contains instructions and references in Portuguese. These English guides do not constitute a separately translated or independently validated English plugin release. You can request responses in English when describing your task.
 
-Files and tutorials are grouped in [downloads](../downloads/README.en.md), by product or task. The SmartChat ZIP is the installation package; a task's `.md` file contains instructions to attach to the conversation after selecting SmartChat.
+Files and tutorials are grouped in [downloads](../downloads/README.md), by product or task. The SmartChat ZIP is the installation package; a task's `.md` file contains instructions to attach to the conversation after selecting SmartChat.
 
-[Back to SmartChat](../README.en.md)
+[Back to SmartChat](../README.md)

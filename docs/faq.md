@@ -1,57 +1,61 @@
-# Perguntas frequentes
+# Frequently asked questions
 
-**Português** | [English](faq.en.md)
+**English** | [Português](faq.pt-BR.md)
 
-## Preciso comprar o modelo para usar SmartChat?
+## Do I need to buy the template to use SmartChat?
 
-Não. O SmartChat e a [conciliação financeira padrão](../downloads/conciliacao-financeira/README.md) são gratuitos. O **Modelo de planejamento de tarefas com SmartChat** é uma oferta paga separada, para quem deseja partir de uma estrutura pronta ao criar suas próprias tarefas.
+No. SmartChat and the [standard financial reconciliation task (Portuguese only)](../downloads/conciliacao-financeira/README.pt-BR.md) are free. The **SmartChat Task Planning Template** is a separate paid product for people who want a predefined structure for creating their own task instructions.
 
-## Quais materiais estão disponíveis em inglês?
+## Which materials are available in English?
 
-A apresentação principal, os guias gerais, as páginas de downloads e os diagramas gerais têm versões em inglês. O pacote original do plugin permanece sem alterações.
+The main presentation, general guides, download pages, and general diagrams have English versions. Each download lists its language and scope.
 
-A conciliação financeira, seu tutorial, vídeo e planilha demonstrativa continuam somente em português e voltados ao contexto brasileiro, com valores em reais. O modelo de planejamento pago também é oferecido atualmente em português. Uma descrição em inglês não significa que o arquivo para download tenha uma edição nesse idioma.
+The plugin ZIP is the unchanged original package, with instructions and references in Portuguese; it is not a separate English release. You can ask for responses in English.
 
-## Qual a diferença entre a conciliação pronta e o modelo pago?
+The financial reconciliation task, its tutorial, video, and sample spreadsheet remain in Portuguese and are prepared for use in Brazil with BRL amounts. The paid planning template is also currently offered in Portuguese. An English description does not mean that an English edition of the downloadable file is available.
 
-A conciliação padrão é um arquivo gratuito com as instruções de uma tarefa já definida e um modelo fixo de planilha. O **Modelo de planejamento de tarefas com SmartChat** ajuda a criar o arquivo de instruções de uma tarefa personalizada ou diferente.
+## How is the ready-to-use reconciliation task different from the paid template?
 
-## Como começo a criar uma tarefa com o modelo?
+The standard reconciliation task is a free file containing the instructions for an already defined task and a fixed spreadsheet layout. The **SmartChat Task Planning Template** helps you create an instruction file for a customized or different task.
 
-Selecione o SmartChat, anexe o arquivo do modelo recebido na compra e descreva o que deseja automatizar. Não é necessário preencher o modelo antes. [Veja uma mensagem simples para começar](../downloads/README.md#para-criar-suas-próprias-tarefas).
+## How do I start creating a task with the template?
 
-## Onde encontro os tutoriais e as demonstrações?
+Select SmartChat, attach the template file received with your purchase, and describe what you want to automate. You do not need to fill in the template beforehand. [See a simple starting message](../downloads/README.md#create-your-own-tasks).
 
-Na pasta [downloads](../downloads/README.md). Cada subpasta reúne seus arquivos e orientações; a de [conciliação financeira](../downloads/conciliacao-financeira/README.md) também contém o tutorial completo, o vídeo e a planilha fictícia.
+## Where are the tutorials and demonstrations?
 
-## Posso utilizar em serviços para clientes?
+In [downloads](../downloads/README.md). Each subfolder groups its files and guidance. The [financial reconciliation folder — Portuguese only](../downloads/conciliacao-financeira/README.pt-BR.md) also includes the full tutorial, video, and fictional sample spreadsheet.
 
-Sim. Você pode cobrar por serviços realizados com auxílio do SmartChat e entregar as tarefas e documentos que criar. Isso não autoriza modificar nem redistribuir o plugin. Veja a [licença](../LICENSE.md).
+## Can I use SmartChat to provide services to clients?
 
-## Posso compartilhar o ZIP?
+Yes. You may charge for services performed with SmartChat's assistance and deliver the tasks and documents you create. This does not authorize modification or redistribution of the plugin. See the [license](../LICENSE.md).
 
-Direcione outras pessoas ao repositório oficial para obterem sua própria cópia. A licença não autoriza redistribuir o pacote; preserva os direitos previstos nos termos do GitHub e na legislação aplicável.
+## Can I share the ZIP?
 
-## Basta baixar o ZIP para começar?
+Direct others to the official repository so they can obtain their own copy. The license does not authorize redistributing the package; it preserves rights provided by GitHub's terms and applicable law.
 
-É necessário instalá-lo em um ambiente compatível e selecionar o SmartChat na conversa. Anexar o ZIP como documento em um chat não equivale à instalação do plugin. Veja as [orientações](instalacao.md).
+## Is downloading the ZIP enough to get started?
 
-## Ele executa automaticamente qualquer tarefa?
+You need to install it in a compatible environment and select SmartChat in the conversation. Attaching the ZIP as a chat document is not equivalent to installing the plugin. See the [installation guide](instalacao.md).
 
-Não. O resultado depende das instruções, entradas, ferramentas disponíveis e permissões concedidas. Elaborar uma especificação não cria, por si só, um agendamento ou uma integração automática.
+## Does it automatically execute any task?
 
-## Por que faz perguntas ou pede confirmação?
+No. Results depend on the instructions, inputs, available tools, and granted permissions. Preparing task instructions does not, by itself, create a schedule or automatic integration.
 
-O SmartChat procura esclarecer informações relevantes e confirmar o entendimento antes da entrega. Se precisar de algo mais direto ou uma pergunta parecer pouco útil, explique seu objetivo e peça que reavalie a abordagem.
+## Why does it ask questions or request confirmation?
 
-## O modelo comercial está nos downloads?
+SmartChat aims to clarify relevant information and confirm its understanding before delivery. If you need a more direct approach or a question seems unhelpful, explain your goal and ask it to reconsider the approach.
 
-Não. Há dois arquivos com funções diferentes: o plugin SmartChat e a especificação pronta da conciliação financeira padrão, ambos gratuitos. O **Modelo de planejamento de tarefas com SmartChat**, usado para ajudar a criar outras especificações, é vendido separadamente. A tarefa de conciliação não exige essa compra. Consulte [os downloads](../downloads/README.md) e [o tutorial](../downloads/conciliacao-financeira/README.md).
+## Is the commercial template included in the downloads?
 
-## Preciso pagar por ChatGPT ou Codex?
+No. The SmartChat plugin and the ready-to-use standard financial reconciliation instructions are free downloads with different purposes. The **SmartChat Task Planning Template**, which helps create other task instructions, is sold separately. The reconciliation task does not require that purchase. See [downloads](../downloads/README.md).
 
-O SmartChat é gratuito. A disponibilidade de instalação, modelos e recursos depende do plano, do ambiente e das permissões da sua conta OpenAI. Este repositório não oferece nem inclui uma assinatura dessas plataformas.
+## Do I need a paid ChatGPT or Codex plan?
 
-## Encontrei um problema. Como informar?
+SmartChat itself is free. Installation availability, models, and features depend on the plan, environment, and permissions of your OpenAI account. This repository does not provide or include a subscription to those platforms.
 
-Abra uma issue indicando versão, ambiente, passos, resultado esperado e resultado observado. Não publique credenciais nem dados pessoais ou confidenciais. O canal não oferece prazo garantido de resposta.
+## How do I report a problem?
+
+[Open an issue](https://github.com/ubirajaratheodoro/smartchat/issues/new) with the version, environment, steps, expected result, and observed result. Do not post credentials or personal or confidential information. There is no guaranteed response time.
+
+[Back to SmartChat](../README.md)
