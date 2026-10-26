@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="1160" viewBox="0 0 960 1160" role="img" aria-labelledby="title desc">
 <title id="title">O que você encontra aqui</title>
-<desc id="desc">Comece pelo SmartChat gratuito para conversar sobre o que precisa. Para automatizar uma tarefa, escolha conforme sua necessidade: conciliação financeira pronta e gratuita, ou modelo de planejamento de tarefas com SmartChat, pago e opcional, para criar instruções personalizadas. O repositório também oferece guias de instalação, uso e perguntas frequentes.</desc>
+<desc id="desc">Comece pelo SmartChat gratuito para conversar sobre o que precisa. Para automatizar uma tarefa, escolha conforme sua necessidade: tarefas prontas e exemplos gratuitos, ou modelo de planejamento de tarefas com SmartChat, pago e opcional, para criar instruções personalizadas. O repositório também oferece guias de instalação, uso e perguntas frequentes.</desc>
 <rect width="960" height="1160" rx="24" fill="#F4F7F8"/>
 <path d="M24 0h912q24 0 24 24v180H0V24Q0 0 24 0" fill="#132D3A"/>
 <g font-family="Segoe UI, Arial, sans-serif">
@@ -23,13 +23,13 @@
 <circle cx="75" cy="853" r="7" fill="#8B5D24"/>
 
 <rect x="120" y="490" width="800" height="226" rx="20" fill="white" stroke="#CBDDE8"/>
-<text x="148" y="532" font-size="22" font-weight="700" fill="#176F9B">USAR UMA TAREFA PRONTA</text>
+<text x="148" y="532" font-size="22" font-weight="700" fill="#176F9B">EXPLORE AS OPÇÕES GRATUITAS</text>
 <rect x="721" y="510" width="171" height="36" rx="18" fill="#E7F2F8"/>
-<text x="806" y="535" text-anchor="middle" font-size="21" font-weight="700" fill="#176F9B">GRATUITA</text>
-<text x="148" y="583" font-size="35" font-weight="700" fill="#142D3A">Conciliação financeira</text>
-<text x="148" y="624" font-size="28" fill="#405A66">Instruções prontas e uma planilha padronizada.</text>
-<text x="148" y="661" font-size="28" fill="#405A66">Baixe a tarefa e siga o tutorial.</text>
-<text x="148" y="696" font-size="24" fill="#176F9B">Inclui vídeo e exemplo com dados fictícios.</text>
+<text x="806" y="535" text-anchor="middle" font-size="21" font-weight="700" fill="#176F9B">GRATUITOS</text>
+<text x="148" y="583" font-size="35" font-weight="700" fill="#142D3A">Tarefas prontas e exemplos</text>
+<text x="148" y="624" font-size="28" fill="#405A66">Encontre instruções, demonstrações e tutoriais.</text>
+<text x="148" y="661" font-size="28" fill="#405A66">Escolha o que atende à sua necessidade.</text>
+<text x="148" y="696" font-size="24" fill="#176F9B">Explore os materiais na pasta Downloads.</text>
 
 <rect x="120" y="742" width="800" height="244" rx="20" fill="white" stroke="#E5D4BB"/>
 <text x="148" y="784" font-size="22" font-weight="700" fill="#8B5D24">CRIAR UMA TAREFA DO SEU JEITO</text>
