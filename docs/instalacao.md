@@ -1,5 +1,7 @@
 # Como instalar o SmartChat
 
+**Português** | [English](instalacao.en.md)
+
 ## 1. Baixe o plugin
 
 **[⬇ Baixar SmartChat v0.38.3](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/smartchat/smartchat-v0.38.3.zip)**

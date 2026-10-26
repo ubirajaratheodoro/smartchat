@@ -1,5 +1,7 @@
 # SmartChat — download do plugin
 
+**Português** | [English](README.en.md)
+
 **Versão disponível: 0.38.3.**
 
 **[⬇ Baixar SmartChat v0.38.3 em ZIP](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/smartchat/smartchat-v0.38.3.zip)**

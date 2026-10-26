@@ -1,5 +1,7 @@
 # SmartChat
 
+**Português** | [English](README.en.md)
+
 **Um assistente que ajuda a esclarecer sua necessidade antes de construir a resposta.**
 
 O SmartChat organiza a conversa para entender o objetivo, identificar informações relevantes, examinar premissas e construir uma resposta adequada ao trabalho. Você pode começar explicando o que precisa, com suas próprias palavras.

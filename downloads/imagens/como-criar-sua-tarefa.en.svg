@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1060" viewBox="0 0 960 1060" role="img" aria-labelledby="title desc">
+ <title id="title">From idea to reusable task</title><desc id="desc">1. Describe what you need. Attach the template and explain the task you want to automate. 2. Answer the questions. SmartChat helps define the data, rules, and expected result. 3. Review the instructions. Check and approve the file that will guide your task. 4. Test and reuse. Run the task with the required documents and access.</desc>
+ <rect width="960" height="1060" rx="24" fill="#F4F7F8"/>
+ <path d="M24 0h912q24 0 24 24v176H0V24Q0 0 24 0" fill="#132D3A"/>
+ <rect x="40" y="34" width="7" height="26" rx="3" fill="#087F70"/>
+ <g font-family="Segoe UI, Arial, sans-serif">
+ <text x="62" y="55" font-size="22" font-weight="600" letter-spacing="2" fill="#B6E5D8">WITH THE TASK PLANNING TEMPLATE</text>
+ <text x="40" y="119" font-size="46" font-weight="700" fill="#FFFFFF">From idea to reusable task</text>
+ <text x="40" y="165" font-size="27" fill="#C9D8DF">A guided conversation to prepare your instructions.</text>
+ 
+ <rect x="40" y="230" width="880" height="157" rx="20" fill="#FFFFFF" stroke="#DCE4E7"/>
+ <text x="76" y="331" font-size="70" font-weight="700" fill="#087F70" opacity=".9">1</text>
+ <text x="171" y="279" font-size="34" font-weight="700" fill="#142D3A">Describe what you need</text>
+ <text x="171" y="321" font-size="28" fill="#405A66">Attach the template and explain</text>
+ <text x="171" y="357" font-size="28" fill="#405A66">the task you want to automate.</text>
+ <g transform="translate(842 256) scale(.85)" fill="none" stroke="#087F70" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><path d="M6 8h42v28H26L14 46V36H6z"/><path d="M15 17h24M15 25h17"/></g>
+ <path d="M110 394v15m-6-5 6 6 6-6" stroke="#087F70" stroke-width="3" fill="none" stroke-linecap="round"/>
+ <rect x="40" y="417" width="880" height="157" rx="20" fill="#FFFFFF" stroke="#DCE4E7"/>
+ <text x="76" y="518" font-size="70" font-weight="700" fill="#087F70" opacity=".9">2</text>
+ <text x="171" y="466" font-size="34" font-weight="700" fill="#142D3A">Answer the questions</text>
+ <text x="171" y="508" font-size="28" fill="#405A66">SmartChat helps you define</text>
+ <text x="171" y="544" font-size="28" fill="#405A66">the data, rules, and expected result.</text>
+ <g transform="translate(842 443) scale(.85)" fill="none" stroke="#087F70" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><path d="M8 8h36v32H23L12 48v-8H8z"/><path d="M20 18c0-8 15-8 15 0 0 5-7 5-7 10"/><path d="M28 33h.1"/></g>
+ <path d="M110 581v15m-6-5 6 6 6-6" stroke="#087F70" stroke-width="3" fill="none" stroke-linecap="round"/>
+ <rect x="40" y="604" width="880" height="157" rx="20" fill="#FFFFFF" stroke="#DCE4E7"/>
+ <text x="76" y="705" font-size="70" font-weight="700" fill="#087F70" opacity=".9">3</text>
+ <text x="171" y="653" font-size="34" font-weight="700" fill="#142D3A">Review the instructions</text>
+ <text x="171" y="695" font-size="28" fill="#405A66">Check and approve the file</text>
+ <text x="171" y="731" font-size="28" fill="#405A66">that will guide your task.</text>
+ <g transform="translate(842 630) scale(.85)" fill="none" stroke="#087F70" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4h24l10 11v36H12zM35 4v13h11M21 27h16M21 35h16M21 43h10"/></g>
+ <path d="M110 768v15m-6-5 6 6 6-6" stroke="#087F70" stroke-width="3" fill="none" stroke-linecap="round"/>
+ <rect x="40" y="791" width="880" height="157" rx="20" fill="#E1F3ED" stroke="#9ACDBC"/>
+ <text x="76" y="892" font-size="70" font-weight="700" fill="#087F70" opacity=".9">4</text>
+ <text x="171" y="840" font-size="34" font-weight="700" fill="#142D3A">Test and reuse</text>
+ <text x="171" y="882" font-size="28" fill="#405A66">Run the task with the documents</text>
+ <text x="171" y="918" font-size="28" fill="#405A66">and access it needs.</text>
+ <g transform="translate(842 817) scale(.85)" fill="none" stroke="#087F70" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><path d="M43 19A19 19 0 0 0 10 16M10 5v12h12M11 37a19 19 0 0 0 33 2M44 50V38H32"/></g>
+ 
+ <text x="40" y="1023" font-size="24" font-weight="600" fill="#405A66">Create the instructions. Then test the task.</text>
+ <text x="920" y="1023" text-anchor="end" font-size="24" font-weight="700" fill="#142D3A">SmartChat</text>
+ </g></svg>

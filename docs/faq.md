@@ -1,8 +1,16 @@
 # Perguntas frequentes
 
+**Português** | [English](faq.en.md)
+
 ## Preciso comprar o modelo para usar SmartChat?
 
 Não. O SmartChat e a [conciliação financeira padrão](../downloads/conciliacao-financeira/README.md) são gratuitos. O **Modelo de planejamento de tarefas com SmartChat** é uma oferta paga separada, para quem deseja partir de uma estrutura pronta ao criar suas próprias tarefas.
+
+## Quais materiais estão disponíveis em inglês?
+
+A apresentação principal, os guias gerais, as páginas de downloads e os diagramas gerais têm versões em inglês. O pacote original do plugin permanece sem alterações.
+
+A conciliação financeira, seu tutorial, vídeo e planilha demonstrativa continuam somente em português e voltados ao contexto brasileiro, com valores em reais. O modelo de planejamento pago também é oferecido atualmente em português. Uma descrição em inglês não significa que o arquivo para download tenha uma edição nesse idioma.
 
 ## Qual a diferença entre a conciliação pronta e o modelo pago?
 

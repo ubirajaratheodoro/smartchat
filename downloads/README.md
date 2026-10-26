@@ -1,11 +1,13 @@
 # Downloads e tutoriais
 
-Aqui você encontra os arquivos gratuitos e as orientações para utilizá-los. Cada pasta reúne tudo o que corresponde ao produto ou à tarefa.
+**Português** | [English](README.en.md)
+
+Aqui você encontra os arquivos gratuitos e as orientações para utilizá-los. Cada pasta reúne tudo o que corresponde ao produto ou à tarefa. O idioma e a abrangência de cada material são indicados abaixo.
 
 | Pasta | O que você encontra |
 | --- | --- |
 | **[SmartChat](smartchat/)** | Plugin gratuito, versão disponível, orientações de instalação e verificação opcional do download. |
-| **[Conciliação financeira](conciliacao-financeira/)** | Tarefa padrão pronta para baixar, tutorial completo, vídeo da criação original e planilha demonstrativa com dados fictícios. |
+| **[Conciliação financeira](conciliacao-financeira/)** | Tarefa padrão pronta para baixar, tutorial completo, vídeo da criação original e planilha demonstrativa com dados fictícios. **Somente em português; contexto brasileiro, uma conta em BRL durante um mês.** |
 
 ## Veja o SmartChat em ação
 

@@ -1,5 +1,7 @@
 # Como utilizar o SmartChat
 
+**Português** | [English](uso.en.md)
+
 ## Comece pelo resultado desejado
 
 Após instalar e selecionar o SmartChat, diga o que pretende alcançar e forneça o contexto disponível. Você não precisa preparar um prompt sofisticado.

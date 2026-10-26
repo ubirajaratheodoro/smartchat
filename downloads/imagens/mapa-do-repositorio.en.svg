@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1160" viewBox="0 0 960 1160" role="img" aria-labelledby="title desc">
+<title id="title">Explore your options</title>
+<desc id="desc">Start with free SmartChat. Explore free ready-to-use tasks and examples, checking each material’s language, or learn about the optional paid Task Planning Template, currently in Portuguese. Installation, usage, and FAQ guides are also available.</desc>
+<rect width="960" height="1160" rx="24" fill="#F4F7F8"/>
+<path d="M24 0h912q24 0 24 24v180H0V24Q0 0 24 0" fill="#132D3A"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<rect x="40" y="32" width="7" height="26" rx="3" fill="#32B7A5"/>
+<text x="62" y="54" font-size="22" font-weight="600" letter-spacing="2" fill="#B6E5D8">EXPLORE THE REPOSITORY</text>
+<text x="40" y="111" font-size="46" font-weight="700" fill="white">Explore your options</text>
+<text x="40" y="154" font-size="27" fill="#C9D8DF">Start with SmartChat. Choose what fits your needs.</text>
+
+<rect x="40" y="214" width="880" height="180" rx="20" fill="#E1F3ED" stroke="#9ACDBC"/>
+<text x="68" y="251" font-size="22" font-weight="700" fill="#087F70">YOUR STARTING POINT</text>
+<rect x="721" y="234" width="171" height="36" rx="18" fill="#087F70"/>
+<text x="806" y="259" text-anchor="middle" font-size="21" font-weight="700" fill="white">FREE</text>
+<text x="68" y="301" font-size="39" font-weight="700" fill="#142D3A">SmartChat</text>
+<text x="68" y="340" font-size="28" fill="#405A66">Download, install, and describe what you need.</text>
+<text x="68" y="376" font-size="28" fill="#405A66">Start using the assistant in your everyday work.</text>
+
+<text x="40" y="453" font-size="29" font-weight="700" fill="#142D3A">Want to automate a task? Choose a path:</text>
+<path d="M75 480v373M75 603h45M75 853h45" fill="none" stroke="#A9BCC4" stroke-width="3"/>
+<circle cx="75" cy="603" r="7" fill="#176F9B"/>
+<circle cx="75" cy="853" r="7" fill="#8B5D24"/>
+
+<rect x="120" y="490" width="800" height="226" rx="20" fill="white" stroke="#CBDDE8"/>
+<text x="148" y="532" font-size="22" font-weight="700" fill="#176F9B">EXPLORE THE FREE OPTIONS</text>
+<rect x="721" y="510" width="171" height="36" rx="18" fill="#E7F2F8"/>
+<text x="806" y="535" text-anchor="middle" font-size="21" font-weight="700" fill="#176F9B">FREE</text>
+<text x="148" y="583" font-size="35" font-weight="700" fill="#142D3A">Ready-to-use tasks and examples</text>
+<text x="148" y="624" font-size="28" fill="#405A66">Find instructions, demonstrations, and tutorials.</text>
+<text x="148" y="661" font-size="28" fill="#405A66">Choose what fits your needs.</text>
+<text x="148" y="696" font-size="24" fill="#176F9B">Browse Downloads and check each item’s language.</text>
+
+<rect x="120" y="742" width="800" height="244" rx="20" fill="white" stroke="#E5D4BB"/>
+<text x="148" y="784" font-size="22" font-weight="700" fill="#8B5D24">CREATE A TASK YOUR WAY</text>
+<rect x="685" y="762" width="207" height="36" rx="18" fill="#FBF0DF"/>
+<text x="788" y="787" text-anchor="middle" font-size="20" font-weight="700" fill="#81551E">PAID · OPTIONAL</text>
+<text x="148" y="834" font-size="33" font-weight="700" fill="#142D3A">SmartChat Task</text>
+<text x="148" y="873" font-size="33" font-weight="700" fill="#142D3A">Planning Template</text>
+<text x="148" y="915" font-size="28" fill="#405A66">A structure for creating your own task instructions.</text>
+<text x="148" y="956" font-size="24" fill="#8B5D24">Paid template currently available in Portuguese.</text>
+
+<rect x="40" y="1020" width="880" height="108" rx="20" fill="#E8EEF1"/>
+<text x="68" y="1063" font-size="29" font-weight="700" fill="#142D3A">Need help?</text>
+<text x="68" y="1102" font-size="27" fill="#405A66">Installation, user guide, and frequently asked questions.</text>
+</g></svg>

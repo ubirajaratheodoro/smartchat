@@ -1,5 +1,9 @@
 # Conciliação financeira com SmartChat — tarefa pronta para usar
 
+**Idioma e abrangência:** disponível somente em português, para uso no contexto brasileiro, com uma conta bancária em reais (BRL) durante um mês.
+
+**English:** This task and its tutorial, video, and sample spreadsheet are available in Portuguese only, prepared for use in Brazil. They have not been adapted to other countries. [Browse downloads in English](../README.en.md).
+
 Esta tarefa confere as movimentações de **uma conta bancária em reais durante um mês** e prepara uma planilha Excel para você revisar. Você não precisa escrever instruções nem escolher um modelo de planilha: o arquivo da tarefa já contém o procedimento e o formato do resultado.
 
 **[⬇ Baixar o arquivo de instruções da conciliação padrão](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/conciliacao-financeira/especificacao_conciliacao_financeira_padrao_v002.md)** · [Ver todos os downloads](../README.md)
