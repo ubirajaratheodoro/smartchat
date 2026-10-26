@@ -73,34 +73,6 @@ Não realiza pagamentos, calcula impostos, consolida várias contas/moedas/meses
 
 Você fornece documentos financeiros somente no ambiente escolhido para a execução. Não publique seus extratos, comprovantes ou resultados particulares no GitHub.
 
-## Quer uma tarefa do seu jeito?
-
-Esta conciliação é uma tarefa pronta com resultado padronizado. Para criar instruções para uma conciliação personalizada ou outra atividade, conheça o **Modelo de planejamento de tarefas com SmartChat**.
-
-*Transforme o que você precisa fazer em instruções prontas para a IA executar.*
-
-<img src="../imagens/como-criar-sua-tarefa.svg" alt="Com o modelo de planejamento: descreva sua necessidade, responda às perguntas, revise as instruções e teste a tarefa para reutilizá-la." width="640">
-
-É um arquivo que orienta o SmartChat a fazer as perguntas necessárias e ajudar a preparar as instruções. Você explica sua necessidade, responde às perguntas e confere o resultado.
-
-**Como começar com o modelo**
-
-1. Abra uma conversa com o SmartChat selecionado.
-2. Anexe o arquivo do **Modelo de planejamento de tarefas com SmartChat**, recebido na compra.
-3. Descreva sua tarefa com uma mensagem simples:
-
-> Quero automatizar [descreva a tarefa]. Use o modelo que estou enviando para me ajudar a criar um arquivo com as instruções dessa tarefa e me faça as perguntas necessárias.
-
-Troque apenas o trecho entre colchetes pela atividade que deseja automatizar, por exemplo: “preparar propostas comerciais”. Você não precisa preencher o modelo: responda às perguntas do SmartChat e revise o arquivo de instruções que ele preparar.
-
-Essa conversa serve para **criar as instruções da sua tarefa**. Depois da revisão, você poderá anexar o arquivo criado em outra conversa e pedir sua execução, fornecendo os documentos e acessos necessários.
-
-**[Conheça o Modelo de planejamento de tarefas com SmartChat](https://sun.eduzz.com/Q9NDKAYP01).**
-
-A oferta entrega o modelo para você criar suas instruções com o SmartChat. A execução da tarefa criada depende das ferramentas e permissões disponíveis no ambiente.
-
-Você não precisa adquirir o modelo para utilizar esta conciliação padrão.
-
 ## Veja a demonstração e um resultado ilustrativo
 
 **[▶ Assista no YouTube: como a tarefa original foi criada](https://youtu.be/XfYRDwGQp6s)** · [Baixar vídeo em MP4](demonstracao-smartchat.mp4)
@@ -116,5 +88,46 @@ O vídeo reproduz trechos da criação da especificação original, com cortes i
 Clique na imagem para ampliar. A planilha completa está no download acima.
 
 Música: “Big Rock”, de Kevin MacLeod ([incompetech.com](https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100305)), sob [licença CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adaptações: trecho de 208 segundos, volume reduzido e entrada e saída suaves.
+
+
+## Quer uma tarefa do seu jeito?
+
+Esta conciliação é uma tarefa pronta com resultado padronizado. Para criar instruções para uma conciliação personalizada ou outra atividade, conheça o **Modelo de planejamento de tarefas com SmartChat**.
+
+*Transforme o que você precisa fazer em instruções prontas para a IA executar.*
+
+<img src="../imagens/como-criar-sua-tarefa.svg" alt="Duas etapas: use o modelo para criar, revisar e salvar as instruções; depois anexe o arquivo criado, forneça os documentos e confira a execução." width="640">
+
+É um arquivo que orienta o SmartChat a fazer as perguntas necessárias e ajudar a preparar as instruções. Você explica sua necessidade, responde às perguntas e confere o resultado.
+
+**Etapa 1 — Crie as instruções**
+
+1. Abra uma conversa com o SmartChat selecionado.
+2. Anexe o arquivo do **Modelo de planejamento de tarefas com SmartChat**, recebido na compra. Você não precisa preencher ou editar o modelo.
+3. Copie a mensagem abaixo e substitua apenas o trecho entre colchetes:
+
+> Quero que a IA me ajude a fazer esta tarefa: [descreva o que você precisa].
+>
+> Estou enviando um modelo para você preparar as instruções dessa tarefa. Faça as perguntas necessárias, uma de cada vez, e use minhas respostas para criar o arquivo de instruções.
+>
+> Ao final, entregue o arquivo para eu conferir. Não execute a tarefa ainda.
+
+Por exemplo: “preparar propostas comerciais a partir das informações dos meus clientes”. Responda às perguntas, confira as instruções, peça os ajustes necessários e salve o arquivo aprovado.
+
+**Etapa 2 — Execute a tarefa**
+
+Abra uma nova conversa com SmartChat e anexe **o arquivo de instruções criado na etapa anterior**. Envie:
+
+> Faça a tarefa seguindo o arquivo de instruções anexado. Pergunte o que precisar e solicite os documentos necessários antes de começar.
+
+Forneça os documentos, as informações e os acessos solicitados. Na primeira execução, teste com dados conhecidos e confira o resultado antes de utilizá-lo.
+
+**Para repetir a tarefa, reutilize o arquivo de instruções criado e forneça os dados da nova execução.** O modelo serve para criar as instruções; não precisa ser anexado novamente a cada execução. Se sua necessidade mudar, revise as instruções antes de reutilizá-las. Isso não cria um agendamento automático.
+
+**[Conheça o Modelo de planejamento de tarefas com SmartChat](https://sun.eduzz.com/Q9NDKAYP01).**
+
+A oferta entrega o modelo para você criar suas instruções com o SmartChat. A execução da tarefa criada depende das ferramentas e permissões disponíveis no ambiente.
+
+Você não precisa adquirir o modelo para utilizar esta conciliação padrão.
 
 [Baixar SmartChat](../smartchat/) · [Todos os downloads](../README.md)

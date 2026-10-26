@@ -18,6 +18,8 @@ Quando pertinente, forneça um exemplo do resultado esperado, as regras aplicáv
 
 ## Use uma tarefa pronta
 
+**Comece por uma opção gratuita para experimentar.** Depois, se precisar de outra tarefa ou de instruções personalizadas, conheça a opção abaixo.
+
 A [conciliação financeira padrão](../downloads/conciliacao-financeira/README.md) é gratuita. Baixe o arquivo de instruções, anexe-o em uma conversa com SmartChat e escreva:
 
 > Faça minha conciliação financeira seguindo o arquivo de instruções anexado.
@@ -28,11 +30,29 @@ O assistente perguntará pelos documentos, período e demais informações neces
 
 Você pode conversar com o SmartChat para organizar uma atividade e definir como realizá-la. Se quiser partir de uma estrutura pronta, o **Modelo de planejamento de tarefas com SmartChat** é uma oferta paga separada.
 
-Com o modelo, você anexa o arquivo recebido na compra, descreve a tarefa e responde às perguntas. [Veja a mensagem para começar e o passo a passo](../downloads/README.md#para-criar-suas-próprias-tarefas).
+**Etapa 1 — Crie as instruções**
 
-Criar as instruções e executar a tarefa são momentos distintos. Primeiro, revise o arquivo preparado pelo assistente. Depois, anexe esse arquivo e peça a execução, disponibilizando os documentos e acessos necessários.
+1. Abra uma conversa com o SmartChat selecionado.
+2. Anexe o arquivo do **Modelo de planejamento de tarefas com SmartChat**, recebido na compra. Você não precisa preencher ou editar o modelo.
+3. Copie a mensagem abaixo e substitua apenas o trecho entre colchetes:
 
-Teste com entradas conhecidas e confira o resultado. Registre o que funcionou e o que precisa de ajuste. Para repetir a tarefa, reutilize as instruções com os dados da nova execução. Isso não cria um agendamento automático.
+> Quero que a IA me ajude a fazer esta tarefa: [descreva o que você precisa].
+>
+> Estou enviando um modelo para você preparar as instruções dessa tarefa. Faça as perguntas necessárias, uma de cada vez, e use minhas respostas para criar o arquivo de instruções.
+>
+> Ao final, entregue o arquivo para eu conferir. Não execute a tarefa ainda.
+
+Por exemplo: “preparar propostas comerciais a partir das informações dos meus clientes”. Responda às perguntas, confira as instruções, peça os ajustes necessários e salve o arquivo aprovado.
+
+**Etapa 2 — Execute a tarefa**
+
+Abra uma nova conversa com SmartChat e anexe **o arquivo de instruções criado na etapa anterior**. Envie:
+
+> Faça a tarefa seguindo o arquivo de instruções anexado. Pergunte o que precisar e solicite os documentos necessários antes de começar.
+
+Forneça os documentos, as informações e os acessos solicitados. Na primeira execução, teste com dados conhecidos e confira o resultado antes de utilizá-lo.
+
+**Para repetir a tarefa, reutilize o arquivo de instruções criado e forneça os dados da nova execução.** O modelo serve para criar as instruções; não precisa ser anexado novamente a cada execução. Se sua necessidade mudar, revise as instruções antes de reutilizá-las. Isso não cria um agendamento automático.
 
 ## Módulo opcional de rastreabilidade
 

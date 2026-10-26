@@ -18,6 +18,8 @@ When useful, provide an example of the expected result, applicable rules, and re
 
 ## Use a ready-to-use task
 
+**Start with a free option to try it out.** If you later need a different task or customized instructions, explore the option below.
+
 Browse [tasks and examples](../downloads/README.en.md) and check the language and scope of each one before downloading.
 
 The free [standard financial reconciliation task — Portuguese only](../downloads/conciliacao-financeira/README.md) is prepared for use in Brazil, for one bank account in BRL over one month. Its instructions, tutorial, video, and sample spreadsheet remain in Portuguese. It has not been adapted to other countries.
@@ -32,11 +34,29 @@ The assistant will ask for the documents, period, and other required information
 
 You can talk to SmartChat to organize an activity and define how to perform it. If you prefer a predefined structure, the **SmartChat Task Planning Template** is a separate paid product, currently available in Portuguese as **Modelo de planejamento de tarefas com SmartChat**.
 
-Attach the file received with your purchase, describe the task, and answer the questions. [See the starting message and steps](../downloads/README.en.md#create-your-own-tasks). The English explanation does not include an English edition of the paid file.
+**Stage 1 — Create the instructions**
 
-Creating instructions and running the task are separate stages. First, review the file prepared by the assistant. Then attach that file and request execution, providing the necessary documents and access.
+1. Open a conversation with SmartChat selected.
+2. Attach the **SmartChat Task Planning Template** file received with your purchase. You do not need to fill in or edit the template.
+3. Copy the message below and replace only the text in brackets:
 
-Test with known inputs and check the result. Record what worked and what needs adjustment. To repeat the task, reuse the instructions with the new inputs. This does not create an automatic schedule.
+> I want AI to help me with this task: [describe what you need].
+>
+> I am attaching a template for preparing the task instructions. Ask the necessary questions, one at a time, and use my answers to create the instruction file.
+>
+> When it is ready, give me the file to review. Do not run the task yet. Please respond in English.
+
+For example: “preparing sales proposals using information from my clients.” Answer the questions, review the instructions, request any changes needed, and save the approved file. Requesting English output does not change the language of the purchased template.
+
+**Stage 2 — Run the task**
+
+Open a new conversation with SmartChat and attach **the instruction file created in the previous stage**. Send:
+
+> Carry out the task following the attached instruction file. Ask any questions you need answered and request the necessary documents before starting. Please respond in English.
+
+Provide the requested documents, information, and access. For the first run, test with known inputs and check the result before using it.
+
+**To repeat the task, reuse the instruction file you created and provide the inputs for the new run.** The template is for creating the instructions; you do not need to attach it again for every run. If your requirements change, review the instructions before reusing them. This does not create an automatic schedule.
 
 ## Optional traceability module
 
