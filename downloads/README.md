@@ -17,6 +17,8 @@ Quer planejar outra atividade ou criar uma tarefa adaptada à sua maneira de tra
 
 *Transforme o que você precisa fazer em instruções prontas para a IA executar.*
 
+<img src="imagens/como-criar-sua-tarefa.svg" alt="Com o modelo de planejamento: descreva sua necessidade, responda às perguntas, revise as instruções e teste a tarefa para reutilizá-la." width="640">
+
 **Como começar com o modelo**
 
 1. Abra uma conversa com o SmartChat selecionado.

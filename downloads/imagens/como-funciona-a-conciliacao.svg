@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1060" viewBox="0 0 960 1060" role="img" aria-labelledby="title desc">
+ <title id="title">Dos documentos à sua planilha</title><desc id="desc">1. Informe pasta e período. Anexe as instruções prontas e responda às perguntas iniciais. 2. Acompanhe a conferência. O SmartChat relaciona movimentos, documentos e saldos. 3. Esclareça as dúvidas. Confirme categorias e vínculos e decida sobre as pendências. 4. Revise a planilha. Confira os lançamentos e os totais antes de aprovar a entrega.</desc>
+ <rect width="960" height="1060" rx="24" fill="#F4F7F8"/>
+ <path d="M24 0h912q24 0 24 24v176H0V24Q0 0 24 0" fill="#132D3A"/>
+ <rect x="40" y="34" width="7" height="26" rx="3" fill="#176F9B"/>
+ <g font-family="Segoe UI, Arial, sans-serif">
+ <text x="62" y="55" font-size="22" font-weight="600" letter-spacing="2" fill="#B6E5D8">CONCILIAÇÃO PADRÃO • GRATUITA</text>
+ <text x="40" y="119" font-size="46" font-weight="700" fill="#FFFFFF">Dos documentos à sua planilha</text>
+ <text x="40" y="165" font-size="27" fill="#C9D8DF">As instruções estão prontas. Você informa os dados.</text>
+ 
+ <rect x="40" y="230" width="880" height="157" rx="20" fill="#FFFFFF" stroke="#DCE4E7"/>
+ <text x="76" y="331" font-size="70" font-weight="700" fill="#176F9B" opacity=".9">1</text>
+ <text x="171" y="279" font-size="34" font-weight="700" fill="#142D3A">Informe pasta e período</text>
+ <text x="171" y="321" font-size="28" fill="#405A66">Anexe as instruções prontas</text>
+ <text x="171" y="357" font-size="28" fill="#405A66">e responda às perguntas iniciais.</text>
+ <g transform="translate(842 256) scale(.85)" fill="none" stroke="#176F9B" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><path d="M4 13h19l6 7h23v29H4zM4 13V7h17l6 6h20v7"/></g>
+ <path d="M110 394v15m-6-5 6 6 6-6" stroke="#176F9B" stroke-width="3" fill="none" stroke-linecap="round"/>
+ <rect x="40" y="417" width="880" height="157" rx="20" fill="#FFFFFF" stroke="#DCE4E7"/>
+ <text x="76" y="518" font-size="70" font-weight="700" fill="#176F9B" opacity=".9">2</text>
+ <text x="171" y="466" font-size="34" font-weight="700" fill="#142D3A">Acompanhe a conferência</text>
+ <text x="171" y="508" font-size="28" fill="#405A66">O SmartChat relaciona movimentos,</text>
+ <text x="171" y="544" font-size="28" fill="#405A66">documentos e saldos.</text>
+ <g transform="translate(842 443) scale(.85)" fill="none" stroke="#176F9B" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><path d="M8 5h34v45H8zM15 17l3 3 6-7M28 17h8M15 31l3 3 6-7M28 31h8M16 42h20"/></g>
+ <path d="M110 581v15m-6-5 6 6 6-6" stroke="#176F9B" stroke-width="3" fill="none" stroke-linecap="round"/>
+ <rect x="40" y="604" width="880" height="157" rx="20" fill="#FFFFFF" stroke="#DCE4E7"/>
+ <text x="76" y="705" font-size="70" font-weight="700" fill="#176F9B" opacity=".9">3</text>
+ <text x="171" y="653" font-size="34" font-weight="700" fill="#142D3A">Esclareça as dúvidas</text>
+ <text x="171" y="695" font-size="28" fill="#405A66">Confirme categorias e vínculos</text>
+ <text x="171" y="731" font-size="28" fill="#405A66">e decida sobre as pendências.</text>
+ <g transform="translate(842 630) scale(.85)" fill="none" stroke="#176F9B" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><path d="M8 8h36v32H23L12 48v-8H8z"/><path d="M20 18c0-8 15-8 15 0 0 5-7 5-7 10"/><path d="M28 33h.1"/></g>
+ <path d="M110 768v15m-6-5 6 6 6-6" stroke="#176F9B" stroke-width="3" fill="none" stroke-linecap="round"/>
+ <rect x="40" y="791" width="880" height="157" rx="20" fill="#E1F3ED" stroke="#9ACDBC"/>
+ <text x="76" y="892" font-size="70" font-weight="700" fill="#176F9B" opacity=".9">4</text>
+ <text x="171" y="840" font-size="34" font-weight="700" fill="#142D3A">Revise a planilha</text>
+ <text x="171" y="882" font-size="28" fill="#405A66">Confira os lançamentos e os totais</text>
+ <text x="171" y="918" font-size="28" fill="#405A66">antes de aprovar a entrega.</text>
+ <g transform="translate(842 817) scale(.85)" fill="none" stroke="#176F9B" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="7" width="46" height="42" rx="3"/><path d="M5 20h46M5 33h46M20 20v29M35 20v29"/></g>
+ 
+ <text x="40" y="1023" font-size="24" font-weight="600" fill="#405A66">Você confere e aprova o resultado.</text>
+ <text x="920" y="1023" text-anchor="end" font-size="24" font-weight="700" fill="#142D3A">SmartChat</text>
+ </g></svg>

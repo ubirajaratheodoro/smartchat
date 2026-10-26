@@ -6,6 +6,8 @@ Esta tarefa confere as movimentações de **uma conta bancária em reais durante
 
 Arquivo **v002**, versão da tarefa **2.0**. A especificação foi revisada conforme o padrão v011. Esta versão reutilizável ainda não foi testada em uma execução completa.
 
+<img src="../imagens/como-funciona-a-conciliacao.svg" alt="Conciliação padrão gratuita: informe a pasta e o período, acompanhe a conferência, esclareça as dúvidas e revise a planilha." width="640">
+
 ## Passo 1 — Baixe e envie as instruções
 
 Em uma conversa com SmartChat, anexe [o arquivo de instruções](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/conciliacao-financeira/especificacao_conciliacao_financeira_padrao_v002.md) e escreva:
@@ -73,6 +75,8 @@ Esta conciliação é uma tarefa pronta com resultado padronizado. Para criar in
 
 *Transforme o que você precisa fazer em instruções prontas para a IA executar.*
 
+<img src="../imagens/como-criar-sua-tarefa.svg" alt="Com o modelo de planejamento: descreva sua necessidade, responda às perguntas, revise as instruções e teste a tarefa para reutilizá-la." width="640">
+
 É um arquivo que orienta o SmartChat a fazer as perguntas necessárias e ajudar a preparar as instruções. Você explica sua necessidade, responde às perguntas e confere o resultado.
 
 **Como começar com o modelo**
@@ -100,6 +104,12 @@ Você não precisa adquirir o modelo para utilizar esta conciliação padrão.
 O vídeo reproduz trechos da criação da especificação original, com cortes indicados e sem narração. Para executar a versão padrão disponibilizada agora, siga os passos deste tutorial; não é necessário recriar a especificação mostrada no vídeo.
 
 [Baixar demonstrativo com dados fictícios](demonstrativo-exemplo.xlsx). É uma ilustração do resultado, sem dados financeiros reais, e não comprova teste desta nova versão reutilizável.
+
+**Prévia da planilha — dados inteiramente fictícios**
+
+[![Prévia do demonstrativo fictício, com resumo de saldos, entradas, saídas e tabela de lançamentos.](../imagens/previa-demonstrativo-ficticio.png)](../imagens/previa-demonstrativo-ficticio.png)
+
+Clique na imagem para ampliar. A planilha completa está no download acima.
 
 Música: “Big Rock”, de Kevin MacLeod ([incompetech.com](https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100305)), sob [licença CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adaptações: trecho de 208 segundos, volume reduzido e entrada e saída suaves.
 
