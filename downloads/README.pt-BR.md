@@ -8,12 +8,15 @@ Aqui você encontra os arquivos gratuitos e as orientações para utilizá-los. 
 | --- | --- |
 | **[SmartChat](smartchat/README.pt-BR.md)** | Plugin gratuito, versão disponível, orientações de instalação e verificação opcional do download. |
 | **[Conciliação financeira](conciliacao-financeira/README.pt-BR.md)** | Tarefa padrão pronta para baixar, tutorial completo, vídeo da criação original e planilha demonstrativa com dados fictícios. **Somente em português; contexto brasileiro, uma conta em BRL durante um mês.** |
+| **[Consumo de ar-condicionado](consumo-ar-condicionado/README.pt-BR.md)** | Demonstração: das fotos dos medidores à planilha e às mensagens de cobrança, com resultado fictício e imagem ilustrativa. **Não inclui o arquivo de instruções para executar a tarefa.** |
 
 ## Veja o SmartChat em ação
 
 **Comece aqui: experimente uma tarefa pronta gratuita.**
 
 Na [conciliação financeira](conciliacao-financeira/README.pt-BR.md), você pode assistir à demonstração, conhecer o resultado e baixar as instruções para usar a tarefa. O assistente pergunta os dados necessários antes de conciliar; a planilha tem modelo fixo.
+
+Conheça também **[Das fotos dos medidores às mensagens de cobrança](consumo-ar-condicionado/README.pt-BR.md)**: veja como as instruções foram criadas e utilizadas, com um resultado ilustrativo. Este caso é uma demonstração, não uma tarefa para baixar.
 
 ## Para criar suas próprias tarefas
 

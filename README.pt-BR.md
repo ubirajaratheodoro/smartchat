@@ -57,6 +57,8 @@ Encontre os arquivos e suas orientações em um único lugar:
 - **[SmartChat](downloads/smartchat/README.pt-BR.md)** — baixe o plugin e consulte como instalar.
 - **[Conciliação financeira](downloads/conciliacao-financeira/README.pt-BR.md)** — baixe a tarefa pronta, siga o tutorial, assista ao vídeo e confira a planilha demonstrativa com dados fictícios.
 
+- **[Consumo de ar-condicionado](downloads/consumo-ar-condicionado/README.pt-BR.md)** — demonstração da criação e execução da tarefa, com imagem ilustrativa e resultado fictício. Sem disponibilização do arquivo de instruções.
+
 [Ver todos os downloads](downloads/README.pt-BR.md).
 
 ## Crie sua própria tarefa

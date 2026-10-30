@@ -8,6 +8,7 @@ Find free files and guidance for using them. Each folder groups the materials fo
 | --- | --- | --- |
 | **[SmartChat](smartchat/README.md)** | Free plugin, available version, installation guidance, and optional integrity check. | English and Portuguese guides; unchanged original package with Portuguese instructions and references. |
 | **[Financial reconciliation](conciliacao-financeira/README.pt-BR.md)** | Ready-to-use task, full tutorial, video of its original creation, and a fictional sample spreadsheet. | **Portuguese only.** Prepared for use in Brazil: one bank account in BRL over one month. Not adapted to other countries. |
+| **[Air-conditioning electricity usage](consumo-ar-condicionado/README.md)** | Demonstration: from meter photos to a spreadsheet and draft payment messages, with fictional results. **Task instructions are not provided.** | English and Portuguese explanation; original execution in Portuguese. |
 
 ## See SmartChat in action
 
@@ -16,6 +17,8 @@ Find free files and guidance for using them. Each folder groups the materials fo
 The [financial reconciliation demonstration — Portuguese only](conciliacao-financeira/README.pt-BR.md) shows how the original task was created and includes a sample result. You can also download the current standard task instructions. The assistant asks for the required information before reconciling, and the spreadsheet layout is fixed.
 
 The task, tutorial, video, and sample spreadsheet remain in Portuguese. This English catalog does not change the task's Brazilian context or indicate that it has been validated for other countries.
+
+See also **[From meter photos to payment messages](consumo-ar-condicionado/README.md)**: how the task instructions were created and used, with an illustrative result. This is a demonstration, not a downloadable task.
 
 ## Create your own tasks
 

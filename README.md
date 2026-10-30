@@ -57,6 +57,8 @@ Find the files and their instructions in one place:
 - **[SmartChat](downloads/smartchat/README.md)** — the free plugin and installation guide.
 - **[Financial reconciliation — Portuguese only](downloads/conciliacao-financeira/README.pt-BR.md)** — a ready-to-use task, tutorial, video, and fictional sample spreadsheet. Prepared for use in Brazil, for one bank account in Brazilian reais (BRL) over one month. It is not adapted to other countries.
 
+- **[Air-conditioning electricity usage](downloads/consumo-ar-condicionado/README.md)** — demonstration of instruction creation and execution, with fictional results. No task instruction file is provided.
+
 [Browse all downloads](downloads/README.md). Each task lists its available language and scope.
 
 ## Create your own task
