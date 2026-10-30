@@ -20,9 +20,9 @@ When useful, provide an example of the expected result, applicable rules, and re
 
 **Start with a free option to try it out.** If you later need a different task or customized instructions, explore the option below.
 
-Browse [tasks and examples](../downloads/README.md) and check the language and scope of each one before downloading.
+Browse [tasks and examples](../automacoes-na-pratica/README.md) and check the language and scope of each one before downloading.
 
-The free [standard financial reconciliation task — Portuguese only](../downloads/conciliacao-financeira/README.pt-BR.md) is prepared for use in Brazil, for one bank account in BRL over one month. Its instructions, tutorial, video, and sample spreadsheet remain in Portuguese. It has not been adapted to other countries.
+The free [standard financial reconciliation task — Portuguese only](../automacoes-na-pratica/conciliacao-financeira/README.pt-BR.md) is prepared for use in Brazil, for one bank account in BRL over one month. Its instructions, tutorial, video, and sample spreadsheet remain in Portuguese. It has not been adapted to other countries.
 
 For that Portuguese task, attach its instruction file to a conversation with SmartChat and use the starting message shown in its tutorial:
 
@@ -72,4 +72,4 @@ The package contains instructions and references. It does not include its own MC
 
 Before using client data, check the permissions and data-handling terms of the services involved. For learning or demonstrations, prefer clearly labeled fictional examples or appropriately anonymized data.
 
-[All downloads](../downloads/README.md) · [Back to SmartChat](../README.md)
+[Automations in practice](../automacoes-na-pratica/README.md) · [Back to SmartChat](../README.md)

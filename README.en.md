@@ -12,13 +12,13 @@ Established and in use since April 2026. Version available in this repository: *
 
 Start with the free SmartChat plugin. To automate a task, explore the free ready-to-use tasks and examples, or learn about the template for creating your own instructions. Choose what fits your needs.
 
-<img src="downloads/imagens/mapa-do-repositorio.en.svg" alt="Repository map: start with free SmartChat; explore free ready-to-use tasks and examples, checking their languages; optionally use the paid Task Planning Template, currently in Portuguese; find installation, usage, and FAQ guides." width="720">
+<img src="docs/imagens/mapa-do-repositorio.en.svg" alt="Repository map: start with free SmartChat; explore free ready-to-use tasks and examples, checking their languages; optionally use the paid Task Planning Template, currently in Portuguese; find installation, usage, and FAQ guides." width="720">
 
 **Explore each option:**
 
 - **[Get started with SmartChat](downloads/smartchat/README.md)** — download and installation guidance.
-- **[Explore ready-to-use tasks and examples](downloads/README.md)** — free materials, demonstrations, and tutorials, with language and scope listed for each task.
-- **[Learn about the Task Planning Template](downloads/README.md#create-your-own-tasks)** — a paid, optional template, currently available in Portuguese.
+- **[Explore ready-to-use tasks and examples](automacoes-na-pratica/README.md)** — free materials, demonstrations, and tutorials, with language and scope listed for each task.
+- **[Learn about the Task Planning Template](automacoes-na-pratica/README.md#create-your-own-tasks)** — a paid, optional template, currently available in Portuguese.
 
 **Help:** [Installation](docs/instalacao.md) · [User guide](docs/uso.md) · [Frequently asked questions](docs/faq.md).
 
@@ -50,16 +50,16 @@ Example starting messages:
 
 See the [user guide](docs/uso.md) for ways to guide the conversation.
 
-## Downloads and tutorials
+## Downloads and automations in practice
 
-Find the files and their instructions in one place:
+Choose the plugin download or explore automation examples:
 
 - **[SmartChat](downloads/smartchat/README.md)** — the free plugin and installation guide.
-- **[Financial reconciliation — Portuguese only](downloads/conciliacao-financeira/README.pt-BR.md)** — a ready-to-use task, tutorial, video, and fictional sample spreadsheet. Prepared for use in Brazil, for one bank account in Brazilian reais (BRL) over one month. It is not adapted to other countries.
+- **[Financial reconciliation — Portuguese only](automacoes-na-pratica/conciliacao-financeira/README.pt-BR.md)** — a ready-to-use task, tutorial, video, and fictional sample spreadsheet. Prepared for use in Brazil, for one bank account in Brazilian reais (BRL) over one month. It is not adapted to other countries.
 
-- **[Air-conditioning electricity usage](downloads/consumo-ar-condicionado/README.md)** — demonstration of instruction creation and execution, with fictional results. No task instruction file is provided.
+- **[Air-conditioning electricity usage](automacoes-na-pratica/consumo-ar-condicionado/README.md)** — demonstration of instruction creation and execution, with fictional results. No task instruction file is provided.
 
-[Browse all downloads](downloads/README.md). Each task lists its available language and scope.
+[Explore automations in practice](automacoes-na-pratica/README.md). Each task lists its available language and scope.
 
 ## Create your own task
 
@@ -67,11 +67,11 @@ You can use SmartChat for free to organize your activities. If you want a predef
 
 Attach the template, explain the task, and answer the questions. SmartChat helps prepare a file with instructions for you to review and use later.
 
-[See how the template works](downloads/README.md#create-your-own-tasks).
+[See how the template works](automacoes-na-pratica/README.md#create-your-own-tasks).
 
 The product is currently offered in Portuguese under the name **Modelo de planejamento de tarefas com SmartChat**. The English explanation here does not mean that an English edition of the paid file is available.
 
-The [standard financial reconciliation task (Portuguese only)](downloads/conciliacao-financeira/README.pt-BR.md) is already prepared and free to use; buying the template is not required.
+The [standard financial reconciliation task (Portuguese only)](automacoes-na-pratica/conciliacao-financeira/README.pt-BR.md) is already prepared and free to use; buying the template is not required.
 
 ## Free, including for professional use
 

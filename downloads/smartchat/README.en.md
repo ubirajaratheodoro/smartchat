@@ -25,4 +25,4 @@ Attaching the ZIP to a conversation does not install the plugin. Installation an
 | [smartchat-v0.38.3.zip](smartchat-v0.38.3.zip) | Plugin installation package. |
 | [SHA256SUMS.txt](SHA256SUMS.txt) | Optional download integrity check. You do not need it to install the plugin. |
 
-[User guide](../../docs/uso.md) · [Tasks, examples, and all downloads](../README.md) · [Back to SmartChat](../../README.md)
+[User guide](../../docs/uso.md) · [Automations in practice](../../automacoes-na-pratica/README.md) · [Back to SmartChat](../../README.md)

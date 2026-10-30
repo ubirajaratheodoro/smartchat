@@ -97,4 +97,4 @@ Você pode criar outras tarefas com o SmartChat gratuito. O modelo pago é um re
 
 [Conheça o SmartChat e as opções disponíveis](https://github.com/ubirajaratheodoro/smartchat).
 
-[Voltar aos downloads e demonstrações](../README.pt-BR.md).
+[Voltar às automações na prática](../README.pt-BR.md).

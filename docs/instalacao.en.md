@@ -28,7 +28,7 @@ If you cannot find an import option, consult the [official plugin documentation]
 
 Check that SmartChat is selected. The appearance of a response alone does not prove the plugin is installed.
 
-Read the [user guide](uso.md) or [browse available tasks and examples](../downloads/README.md). The financial reconciliation task and its tutorial, video, and sample spreadsheet are currently **Portuguese only**, prepared for use in Brazil with amounts in BRL.
+Read the [user guide](uso.md) or [browse available tasks and examples](../automacoes-na-pratica/README.md). The financial reconciliation task and its tutorial, video, and sample spreadsheet are currently **Portuguese only**, prepared for use in Brazil with amounts in BRL.
 
 ## About this download
 
@@ -36,6 +36,6 @@ The ZIP is the original exported package, version **0.38.3**, with no content ch
 
 The package contains instructions and references in Portuguese. These English guides do not constitute a separately translated or independently validated English plugin release. You can request responses in English when describing your task.
 
-Files and tutorials are grouped in [downloads](../downloads/README.md), by product or task. The SmartChat ZIP is the installation package; a task's `.md` file contains instructions to attach to the conversation after selecting SmartChat.
+Files and tutorials are grouped in [downloads](../automacoes-na-pratica/README.md), by product or task. The SmartChat ZIP is the installation package; a task's `.md` file contains instructions to attach to the conversation after selecting SmartChat.
 
 [Back to SmartChat](../README.md)

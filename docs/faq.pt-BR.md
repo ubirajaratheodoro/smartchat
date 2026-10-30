@@ -4,7 +4,7 @@
 
 ## Preciso comprar o modelo para usar SmartChat?
 
-Não. O SmartChat e a [conciliação financeira padrão](../downloads/conciliacao-financeira/README.pt-BR.md) são gratuitos. O **Modelo de planejamento de tarefas com SmartChat** é uma oferta paga separada, para quem deseja partir de uma estrutura pronta ao criar suas próprias tarefas.
+Não. O SmartChat e a [conciliação financeira padrão](../automacoes-na-pratica/conciliacao-financeira/README.pt-BR.md) são gratuitos. O **Modelo de planejamento de tarefas com SmartChat** é uma oferta paga separada, para quem deseja partir de uma estrutura pronta ao criar suas próprias tarefas.
 
 ## Quais materiais estão disponíveis em inglês?
 
@@ -18,11 +18,11 @@ A conciliação padrão é um arquivo gratuito com as instruções de uma tarefa
 
 ## Como começo a criar uma tarefa com o modelo?
 
-Selecione o SmartChat, anexe o arquivo do modelo recebido na compra e descreva o que deseja automatizar. Não é necessário preencher o modelo antes. [Veja uma mensagem simples para começar](../downloads/README.pt-BR.md#para-criar-suas-próprias-tarefas).
+Selecione o SmartChat, anexe o arquivo do modelo recebido na compra e descreva o que deseja automatizar. Não é necessário preencher o modelo antes. [Veja uma mensagem simples para começar](../automacoes-na-pratica/README.pt-BR.md#para-criar-suas-próprias-tarefas).
 
 ## Onde encontro os tutoriais e as demonstrações?
 
-Na pasta [downloads](../downloads/README.pt-BR.md). Cada subpasta reúne seus arquivos e orientações; a de [conciliação financeira](../downloads/conciliacao-financeira/README.pt-BR.md) também contém o tutorial completo, o vídeo e a planilha fictícia.
+Na pasta [downloads](../automacoes-na-pratica/README.pt-BR.md). Cada subpasta reúne seus arquivos e orientações; a de [conciliação financeira](../automacoes-na-pratica/conciliacao-financeira/README.pt-BR.md) também contém o tutorial completo, o vídeo e a planilha fictícia.
 
 ## Posso utilizar em serviços para clientes?
 
@@ -46,7 +46,7 @@ O SmartChat procura esclarecer informações relevantes e confirmar o entendimen
 
 ## O modelo comercial está nos downloads?
 
-Não. Há dois arquivos com funções diferentes: o plugin SmartChat e a especificação pronta da conciliação financeira padrão, ambos gratuitos. O **Modelo de planejamento de tarefas com SmartChat**, usado para ajudar a criar outras especificações, é vendido separadamente. A tarefa de conciliação não exige essa compra. Consulte [os downloads](../downloads/README.pt-BR.md) e [o tutorial](../downloads/conciliacao-financeira/README.pt-BR.md).
+Não. Há dois arquivos com funções diferentes: o plugin SmartChat e a especificação pronta da conciliação financeira padrão, ambos gratuitos. O **Modelo de planejamento de tarefas com SmartChat**, usado para ajudar a criar outras especificações, é vendido separadamente. A tarefa de conciliação não exige essa compra. Consulte [os downloads](../automacoes-na-pratica/README.pt-BR.md) e [o tutorial](../automacoes-na-pratica/conciliacao-financeira/README.pt-BR.md).
 
 ## Preciso pagar por ChatGPT ou Codex?
 

@@ -91,4 +91,4 @@ You can create other tasks with free SmartChat. The paid template is an optional
 
 [Explore SmartChat and the available options](https://github.com/ubirajaratheodoro/smartchat).
 
-[Back to downloads and demonstrations](../README.md).
+[Back to automations in practice](../README.md).

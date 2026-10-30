@@ -23,4 +23,4 @@ Anexar o ZIP em uma conversa não instala o plugin. A instalação e os recursos
 | [smartchat-v0.38.3.zip](smartchat-v0.38.3.zip) | Pacote do plugin para instalação. |
 | [SHA256SUMS.txt](SHA256SUMS.txt) | Verificação opcional de integridade do download. Não é necessário baixar para instalar. |
 
-[Guia de uso](../../docs/uso.pt-BR.md) · [Conciliação financeira pronta para usar](../conciliacao-financeira/README.pt-BR.md) · [Todos os downloads](../README.pt-BR.md)
+[Guia de uso](../../docs/uso.pt-BR.md) · [Conciliação financeira pronta para usar](../../automacoes-na-pratica/conciliacao-financeira/README.pt-BR.md) · [Automações na prática](../../automacoes-na-pratica/README.pt-BR.md)

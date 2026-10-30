@@ -4,7 +4,7 @@
 
 ## Do I need to buy the template to use SmartChat?
 
-No. SmartChat and the [standard financial reconciliation task (Portuguese only)](../downloads/conciliacao-financeira/README.pt-BR.md) are free. The **SmartChat Task Planning Template** is a separate paid product for people who want a predefined structure for creating their own task instructions.
+No. SmartChat and the [standard financial reconciliation task (Portuguese only)](../automacoes-na-pratica/conciliacao-financeira/README.pt-BR.md) are free. The **SmartChat Task Planning Template** is a separate paid product for people who want a predefined structure for creating their own task instructions.
 
 ## Which materials are available in English?
 
@@ -20,11 +20,11 @@ The standard reconciliation task is a free file containing the instructions for 
 
 ## How do I start creating a task with the template?
 
-Select SmartChat, attach the template file received with your purchase, and describe what you want to automate. You do not need to fill in the template beforehand. [See a simple starting message](../downloads/README.md#create-your-own-tasks).
+Select SmartChat, attach the template file received with your purchase, and describe what you want to automate. You do not need to fill in the template beforehand. [See a simple starting message](../automacoes-na-pratica/README.md#create-your-own-tasks).
 
 ## Where are the tutorials and demonstrations?
 
-In [downloads](../downloads/README.md). Each subfolder groups its files and guidance. The [financial reconciliation folder — Portuguese only](../downloads/conciliacao-financeira/README.pt-BR.md) also includes the full tutorial, video, and fictional sample spreadsheet.
+In [downloads](../automacoes-na-pratica/README.md). Each subfolder groups its files and guidance. The [financial reconciliation folder — Portuguese only](../automacoes-na-pratica/conciliacao-financeira/README.pt-BR.md) also includes the full tutorial, video, and fictional sample spreadsheet.
 
 ## Can I use SmartChat to provide services to clients?
 
@@ -48,7 +48,7 @@ SmartChat aims to clarify relevant information and confirm its understanding bef
 
 ## Is the commercial template included in the downloads?
 
-No. The SmartChat plugin and the ready-to-use standard financial reconciliation instructions are free downloads with different purposes. The **SmartChat Task Planning Template**, which helps create other task instructions, is sold separately. The reconciliation task does not require that purchase. See [downloads](../downloads/README.md).
+No. The SmartChat plugin and the ready-to-use standard financial reconciliation instructions are free downloads with different purposes. The **SmartChat Task Planning Template**, which helps create other task instructions, is sold separately. The reconciliation task does not require that purchase. See [downloads](../automacoes-na-pratica/README.md).
 
 ## Do I need a paid ChatGPT or Codex plan?
 

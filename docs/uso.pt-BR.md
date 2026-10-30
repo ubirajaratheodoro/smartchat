@@ -20,7 +20,7 @@ Quando pertinente, forneça um exemplo do resultado esperado, as regras aplicáv
 
 **Comece por uma opção gratuita para experimentar.** Depois, se precisar de outra tarefa ou de instruções personalizadas, conheça a opção abaixo.
 
-A [conciliação financeira padrão](../downloads/conciliacao-financeira/README.pt-BR.md) é gratuita. Baixe o arquivo de instruções, anexe-o em uma conversa com SmartChat e escreva:
+A [conciliação financeira padrão](../automacoes-na-pratica/conciliacao-financeira/README.pt-BR.md) é gratuita. Baixe o arquivo de instruções, anexe-o em uma conversa com SmartChat e escreva:
 
 > Faça minha conciliação financeira seguindo o arquivo de instruções anexado.
 

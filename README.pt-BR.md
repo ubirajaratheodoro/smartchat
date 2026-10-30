@@ -12,13 +12,13 @@ Pronto, consolidado e em uso desde abril de 2026. Versão disponibilizada neste 
 
 Comece pelo SmartChat gratuito. Depois, se quiser automatizar uma tarefa, explore as tarefas prontas e os exemplos gratuitos ou conheça o modelo para criar suas próprias instruções. Escolha conforme sua necessidade.
 
-<img src="downloads/imagens/mapa-do-repositorio.svg" alt="Mapa do repositório: SmartChat gratuito como ponto de partida; tarefas prontas e exemplos gratuitos; modelo de planejamento pago e opcional para criar tarefas personalizadas; guias de instalação, uso e dúvidas." width="720">
+<img src="docs/imagens/mapa-do-repositorio.svg" alt="Mapa do repositório: SmartChat gratuito como ponto de partida; tarefas prontas e exemplos gratuitos; modelo de planejamento pago e opcional para criar tarefas personalizadas; guias de instalação, uso e dúvidas." width="720">
 
 **Acesse cada opção:**
 
 - **[Começar com o SmartChat](downloads/smartchat/README.pt-BR.md)** — baixar e instalar gratuitamente.
-- **[Explorar tarefas prontas e exemplos](downloads/README.pt-BR.md)** — materiais gratuitos, demonstrações e orientações para usar.
-- **[Conhecer o modelo de planejamento](downloads/README.pt-BR.md#para-criar-suas-próprias-tarefas)** — como criar instruções personalizadas com o modelo pago.
+- **[Explorar tarefas prontas e exemplos](automacoes-na-pratica/README.pt-BR.md)** — materiais gratuitos, demonstrações e orientações para usar.
+- **[Conhecer o modelo de planejamento](automacoes-na-pratica/README.pt-BR.md#para-criar-suas-próprias-tarefas)** — como criar instruções personalizadas com o modelo pago.
 
 **Guias de apoio:** [Instalação](docs/instalacao.pt-BR.md) · [Como usar](docs/uso.pt-BR.md) · [Perguntas frequentes](docs/faq.pt-BR.md).
 
@@ -50,16 +50,16 @@ Exemplos de início de conversa:
 
 Veja o [guia de utilização](docs/uso.pt-BR.md) para saber como conduzir a conversa.
 
-## Downloads e tutoriais
+## Downloads e automações na prática
 
-Encontre os arquivos e suas orientações em um único lugar:
+Baixe o plugin ou explore os exemplos de automação:
 
 - **[SmartChat](downloads/smartchat/README.pt-BR.md)** — baixe o plugin e consulte como instalar.
-- **[Conciliação financeira](downloads/conciliacao-financeira/README.pt-BR.md)** — baixe a tarefa pronta, siga o tutorial, assista ao vídeo e confira a planilha demonstrativa com dados fictícios.
+- **[Conciliação financeira](automacoes-na-pratica/conciliacao-financeira/README.pt-BR.md)** — baixe a tarefa pronta, siga o tutorial, assista ao vídeo e confira a planilha demonstrativa com dados fictícios.
 
-- **[Consumo de ar-condicionado](downloads/consumo-ar-condicionado/README.pt-BR.md)** — demonstração da criação e execução da tarefa, com imagem ilustrativa e resultado fictício. Sem disponibilização do arquivo de instruções.
+- **[Consumo de ar-condicionado](automacoes-na-pratica/consumo-ar-condicionado/README.pt-BR.md)** — demonstração da criação e execução da tarefa, com imagem ilustrativa e resultado fictício. Sem disponibilização do arquivo de instruções.
 
-[Ver todos os downloads](downloads/README.pt-BR.md).
+[Ver automações na prática](automacoes-na-pratica/README.pt-BR.md).
 
 ## Crie sua própria tarefa
 
@@ -67,9 +67,9 @@ Você pode usar o SmartChat gratuitamente para organizar suas atividades. Para p
 
 Anexe o modelo, explique a tarefa e responda às perguntas. O SmartChat ajuda a preparar um arquivo com as instruções para você revisar e utilizar depois.
 
-[Veja como começar com o modelo](downloads/README.pt-BR.md#para-criar-suas-próprias-tarefas).
+[Veja como começar com o modelo](automacoes-na-pratica/README.pt-BR.md#para-criar-suas-próprias-tarefas).
 
-A [conciliação financeira padrão](downloads/conciliacao-financeira/README.pt-BR.md) já está pronta e é gratuita; não é necessário comprar o modelo para executá-la.
+A [conciliação financeira padrão](automacoes-na-pratica/conciliacao-financeira/README.pt-BR.md) já está pronta e é gratuita; não é necessário comprar o modelo para executá-la.
 
 ## Gratuito, inclusive para uso profissional
 

@@ -9,7 +9,7 @@ The free instruction file defines the task and the spreadsheet layout. You provi
 ## Start with the free task
 
 1. **[Read the tutorial in Portuguese](README.pt-BR.md)** to understand the required documents, checks, and limits.
-2. **[Download the task instructions — Portuguese](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/conciliacao-financeira/especificacao_conciliacao_financeira_padrao_v002.md)**.
+2. **[Download the task instructions — Portuguese](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/automacoes-na-pratica/conciliacao-financeira/especificacao_conciliacao_financeira_padrao_v002.md)**.
 3. Select SmartChat, attach the instruction file, and follow the tutorial. You do not need to buy the planning template or create the instructions again.
 
 The downloadable task is **v002 / task version 2.0**. This reusable version has not yet been tested in a complete run.
@@ -24,4 +24,4 @@ The downloadable task is **v002 / task version 2.0**. This reusable version has 
 
 After exploring the free example, [learn about the optional paid Task Planning Template](../README.md#create-your-own-tasks). The paid template is currently in Portuguese. It is not required to use this free task.
 
-[Get SmartChat](../smartchat/README.md) · [All downloads](../README.md)
+[Get SmartChat](../../downloads/smartchat/README.md) · [Automations in practice](../README.md)

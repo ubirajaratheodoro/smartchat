@@ -6,15 +6,15 @@
 
 Esta tarefa confere as movimentações de **uma conta bancária em reais durante um mês** e prepara uma planilha Excel para você revisar. Você não precisa escrever instruções nem escolher um modelo de planilha: o arquivo da tarefa já contém o procedimento e o formato do resultado.
 
-**[⬇ Baixar o arquivo de instruções da conciliação padrão](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/conciliacao-financeira/especificacao_conciliacao_financeira_padrao_v002.md)** · [Ver todos os downloads](../README.pt-BR.md)
+**[⬇ Baixar o arquivo de instruções da conciliação padrão](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/automacoes-na-pratica/conciliacao-financeira/especificacao_conciliacao_financeira_padrao_v002.md)** · [Ver automações na prática](../README.pt-BR.md)
 
 Arquivo **v002**, versão da tarefa **2.0**. A especificação foi revisada conforme o padrão v011. Esta versão reutilizável ainda não foi testada em uma execução completa.
 
-<img src="../imagens/como-funciona-a-conciliacao.svg" alt="Conciliação padrão gratuita: informe a pasta e o período, acompanhe a conferência, esclareça as dúvidas e revise a planilha." width="640">
+<img src="../../docs/imagens/como-funciona-a-conciliacao.svg" alt="Conciliação padrão gratuita: informe a pasta e o período, acompanhe a conferência, esclareça as dúvidas e revise a planilha." width="640">
 
 ## Passo 1 — Baixe e envie as instruções
 
-Em uma conversa com SmartChat, anexe [o arquivo de instruções](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/downloads/conciliacao-financeira/especificacao_conciliacao_financeira_padrao_v002.md) e escreva:
+Em uma conversa com SmartChat, anexe [o arquivo de instruções](https://github.com/ubirajaratheodoro/smartchat/raw/refs/heads/main/automacoes-na-pratica/conciliacao-financeira/especificacao_conciliacao_financeira_padrao_v002.md) e escreva:
 
 > Faça minha conciliação financeira seguindo o arquivo de instruções anexado.
 
@@ -83,7 +83,7 @@ O vídeo reproduz trechos da criação da especificação original, com cortes i
 
 **Prévia da planilha — dados inteiramente fictícios**
 
-[![Prévia do demonstrativo fictício, com resumo de saldos, entradas, saídas e tabela de lançamentos.](../imagens/previa-demonstrativo-ficticio.png)](../imagens/previa-demonstrativo-ficticio.png)
+[![Prévia do demonstrativo fictício, com resumo de saldos, entradas, saídas e tabela de lançamentos.](../../docs/imagens/previa-demonstrativo-ficticio.png)](../../docs/imagens/previa-demonstrativo-ficticio.png)
 
 Clique na imagem para ampliar. A planilha completa está no download acima.
 
@@ -96,7 +96,7 @@ Esta conciliação é uma tarefa pronta com resultado padronizado. Para criar in
 
 *Transforme o que você precisa fazer em instruções prontas para a IA executar.*
 
-<img src="../imagens/como-criar-sua-tarefa.svg" alt="Duas etapas: use o modelo para criar, revisar e salvar as instruções; depois anexe o arquivo criado, forneça os documentos e confira a execução." width="640">
+<img src="../../docs/imagens/como-criar-sua-tarefa.svg" alt="Duas etapas: use o modelo para criar, revisar e salvar as instruções; depois anexe o arquivo criado, forneça os documentos e confira a execução." width="640">
 
 É um arquivo que orienta o SmartChat a fazer as perguntas necessárias e ajudar a preparar as instruções. Você explica sua necessidade, responde às perguntas e confere o resultado.
 
@@ -130,4 +130,4 @@ A oferta entrega o modelo para você criar suas instruções com o SmartChat. A 
 
 Você não precisa adquirir o modelo para utilizar esta conciliação padrão.
 
-[Baixar SmartChat](../smartchat/README.pt-BR.md) · [Todos os downloads](../README.pt-BR.md)
+[Baixar SmartChat](../../downloads/smartchat/README.pt-BR.md) · [Automações na prática](../README.pt-BR.md)
